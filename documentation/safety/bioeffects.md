@@ -2,7 +2,7 @@
 layout: default
 title: Bioeffects
 parent: Safety Recommendations
-grand_parent: FUNdamental Guide
+grand_parent: ITRUSST Guide
 ---
 
 # Bioeffects

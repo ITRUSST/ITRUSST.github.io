@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Standardized Reporting
-parent: FUNdamental Guide
+parent: ITRUSST Guide
 nav_order: 2
 # has_children: true
 ---

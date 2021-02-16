@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Practice
-parent: FUNdamental Guide
+parent: ITRUSST Guide
 # has_children: true
 ---
 # Practice

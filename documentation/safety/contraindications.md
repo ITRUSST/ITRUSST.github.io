@@ -2,7 +2,7 @@
 layout: default
 title: Contraindications
 parent: Safety Recommendations
-grand_parent: FUNdamental Guide
+grand_parent: ITRUSST Guide
 ---
 
 # Contraindications
