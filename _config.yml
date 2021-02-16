@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: FUNdamental
+title: ITRUSST
 email: benjamin.kop@donders.ru.nl
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to FUNDamental! We are an international consortium working towards
+  Welcome to ITRUSST! We are an international consortium working towards
   consensus on the safe and effective application of transcranial focused ultrasound
   neuromodulation.
 baseurl: "" # the subpath of your site, e.g. /blog

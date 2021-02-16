@@ -8,7 +8,7 @@ permalink: /about/
 
 
 ## Our organization
-FUNdamental is an international organization with members from research, industry, and regulatory bodies, all working towards the safe, effective, and replicable application of transcranial focused ultrasound for neuromodulation.
+ITRUSST is an international organization with members from research, industry, and regulatory bodies, all working towards the safe, effective, and replicable application of transcranial focused ultrasound for neuromodulation.
 
 ## Our purpose
 FUNdamental aims to facilitate the development of guidelines and standardization for the application of ultrasonic neuromodulation in humans.
