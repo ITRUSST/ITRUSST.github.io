@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title:  "Welcome to FUNdamental!"
+title:  "Welcome to ITRUSST!"
 date:   2020-11-28 17:08:13 +0100
 categories: post update
 author: "Benjamin Kop"

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Clinical Roadmap
-parent: FUNdamental Guide
+parent: ITRUSST Guide
 # has_children: true
 ---
 # Clinical Roadmap

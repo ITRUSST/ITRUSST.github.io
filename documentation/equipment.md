@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Equipment
-parent: FUNdamental Guide
+parent: ITRUSST Guide
 # has_children: true
 ---
 # Equipment

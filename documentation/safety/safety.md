@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Safety Recommendations
-parent: FUNdamental Guide
+parent: ITRUSST Guide
 has_children: true
 nav_order: 1
 ---

@@ -10,7 +10,7 @@ permalink: /
 ![](./media/Background3.png)
 
 # Welcome to ITRUSST
-We are an international collective working together towards the safe and effective application of transcranial focused ultrasound for neuromodulation. FUNdamental aims to establish consensus on expert guides, guidelines, and standardization for this neuromodulatory technique.
+We are an international collective working together towards the safe and effective application of transcranial focused ultrasound for neuromodulation. ITRUSST aims to establish consensus on expert guides, guidelines, and standardization for this neuromodulatory technique.
 
 *This website is a placeholder for a more developed alternative and acts as a launching pad for our organization's effort.*
 
@@ -39,4 +39,4 @@ We would like to thank our contributors:
 
 [I'm a relative reference to a repository file](../blob/master/LICENSE)
 
-You can find a link to our full size logo [here](./media/FundamentalLogo1.png). -->
+You can find a link to our full size logo [here](./media/ITRUSSTLogo1.png). -->
