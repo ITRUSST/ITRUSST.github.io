@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: contact
 nav_order: 99
 ---
 

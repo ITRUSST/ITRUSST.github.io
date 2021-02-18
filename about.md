@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
-nav_order: 2
+title: about
+nav_order: 98
 permalink: /about/
 ---
 ![](../media/AboutUs.png)
 
 
 ## Our organization
-ITRUSST is an international organization with members from research, industry, and regulatory bodies, all working towards the safe, effective, and replicable application of transcranial focused ultrasound for neuromodulation.
+ITRUSST is an international organization with members from research, industry, and regulatory bodies, all working towards the safe, effective, and replicable application of transcranial ultrasonic stimulation for non-invasive neuromodulation in humans.
 
 ## Our purpose
 ITRUSST aims to facilitate the development of guidelines and standardization for the application of ultrasonic neuromodulation in humans.
