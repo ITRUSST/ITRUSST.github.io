@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Bioeffects
-parent: Safety Recommendations
+title: bioeffects
+parent: safety
 grand_parent: ITRUSST Guide
 ---
 
-# Bioeffects
+# bioeffects
 
 ## Introduction to TUS bioeffects
 There are two main safety considerations relevant to TUS, namely thermal and mechanical bioeffects. As ultrasound waves travel through bone and tissue, a portion of the administered mechanical energy is transferred into heat through absorption. At high stimulation intensities, the increase in temperature can be of sufficient magnitude to ablate tissue, as seen in high-intensity focused ultrasound (HIFU). While neuromodulation via TUS employs far lower intensities than HIFU, risks of temperature rise and resultant harmful bioeffects remain extant. Another risk is that of mechanical bioeffects. Here, TUS may cause acoustic cavitation, where small cavities of vapor (or ‘bubbles’) form, oscillate, and then violently collapse, resulting in mechanical damage. It is essential that we can circumvent these harmful bioeffects in TUS for neuromodulation, which involves limiting total acoustic energy absorption and peak negative pressure.

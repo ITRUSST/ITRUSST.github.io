@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Clinical Roadmap
+title: clinical
 parent: ITRUSST Guide
 # has_children: true
 ---
-# Clinical Roadmap
+# clinical
 
-*Purpose: To establish a clinical roadmap for focused ultrasonic neuromodulation, including a preclinical roadmap and recommendations and guidelines for clinical trials.*
+*Purpose: To establish a clinical roadmap for transcranial ultrasonic stimulation, including guidelines for clinical trials but also a preclinical directions.*

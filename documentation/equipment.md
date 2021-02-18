@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Equipment
+title: equipment
 parent: ITRUSST Guide
 # has_children: true
 ---
-# Equipment
-*Purpose: To establish recommendations and guidelines for equipment supporting focused ultrasonic neuromodulation, including requirements, calibration, and a roadmap for future development and use.* 
+# equipment
+*Purpose: To establish recommendations and guidelines for equipment supporting transcranial ultrasonic stimulation, including requirements, calibration, and a roadmap for future development and use.*
