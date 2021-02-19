@@ -1,6 +1,7 @@
 ---
 layout: default
 title: clinical
+nav_order: 8
 # has_children: true
 ---
 # clinical
