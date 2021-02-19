@@ -1,7 +1,6 @@
 ---
 layout: default
 title: safety
-parent: ITRUSST Guide
 has_children: true
 nav_order: 1
 ---

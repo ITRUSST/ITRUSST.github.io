@@ -1,7 +1,6 @@
 ---
 layout: default
 title: ethics
-parent: ITRUSST Guide
 # has_children: true
 ---
 # ethics

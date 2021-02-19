@@ -1,7 +1,6 @@
 ---
 layout: default
 title: planning
-parent: ITRUSST Guide
 # has_children: true
 ---
 # planning

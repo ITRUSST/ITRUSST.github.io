@@ -1,7 +1,6 @@
 ---
 layout: default
 title: open
-parent: ITRUSST Guide
 # has_children: true
 ---
 # open

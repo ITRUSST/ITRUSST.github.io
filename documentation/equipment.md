@@ -1,7 +1,6 @@
 ---
 layout: default
 title: equipment
-parent: ITRUSST Guide
 # has_children: true
 ---
 # equipment
