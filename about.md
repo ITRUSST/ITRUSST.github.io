@@ -4,7 +4,7 @@ title: about
 nav_order: 98
 permalink: /about/
 ---
-![](./media/AboutUs.png)
+![](../media/AboutUs.png)
 
 
 ## Our organization
