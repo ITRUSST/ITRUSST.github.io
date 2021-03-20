@@ -34,7 +34,7 @@ github_username:  fundamentus
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
-logo: "/media/ITRUSSTLogo6.png"
+logo: "/media/ITRUSSTLogo7.png"
 # This section is for specifying front-matter (YAML) defaults
 # defaults:
 #  -
