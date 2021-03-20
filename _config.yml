@@ -35,7 +35,6 @@ remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 logo: "/media/ITRUSSTLogo7.png"
-color_scheme: blueScheme
 # This section is for specifying front-matter (YAML) defaults
 # defaults:
 #  -
