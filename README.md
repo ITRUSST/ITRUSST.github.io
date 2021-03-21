@@ -21,7 +21,7 @@ This repository contains the ITRUSST documentation hosted on <https://itrusst.gi
 - Markdown documentation can be found on <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>.
 - Liquid documentation can be found on <https://help.shopify.com/en/themes/liquid> and <https://shopify.github.io/liquid>.
 - Jekyll cheatsheet can be found on <https://devhints.io/jekyll>.
-- When images (or other data?) is uploaded using Git Large File Storage (LFS), those images cannot be seen on the website. Navigate to folder where unwanted LFS is being used locally and type 'git lfs uninstall'. 
+- When images (or other data?) is uploaded using Git Large File Storage (LFS), those images cannot be seen on the website. Navigate to folder where unwanted LFS is being used locally and type 'git lfs uninstall'. Then type 'touch _filename_' to remove LFS for the relevant file. 
 
 ## Limitations when viewing on GitHub
 
