@@ -5,7 +5,6 @@ parent: example documentation
 grand_parent: practice
 ---
 # Example standard operating procedure - Donders Institute
-
 {: .no_toc }
 
 ## Table of contents
