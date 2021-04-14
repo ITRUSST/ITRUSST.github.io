@@ -1,3 +1,18 @@
+---
+layout: default
+title: Example standard operating procedure - Donders Institute
+parent: example documentation
+grand_parent: practice
+---
+# Navigation Structure
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 # **1. purpose**
 This procedure is intended to ensure that non-invasive brain stimulation studies (using TUS) are consistently conducted in accordance with local ethical regulations and international consensus regarding risk and safety.
 
