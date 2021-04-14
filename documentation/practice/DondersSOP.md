@@ -19,7 +19,7 @@ This procedure is intended to ensure that non-invasive brain stimulation studies
 # 2.  expert guidelines
 All certified users and those who plan to use NIBS techniques need to be familiar with the expert guidelines on safety and use of the respective techniques, where available. Minimal required reading for TUS includes: “Ultrasound neuromodulation: A review of results, mechanisms, and safety” (Blackmore *et al.*, 2019); as well as “Safety of transcranial focused ultrasound stimulation: A systematic review of the state of knowledge from both human and animal studies” (Pasquinelli *et al.*, 2019); and “A retrospective qualitative report of symptoms and safety from transcranial focused ultrasound for neuromodulation in humans” (Legon *et al.*, 2020).
 
-# **3. stimulation protocols**
+# 3. stimulation protocols
 Stimulation protocols for TUS can be categorized by the duration and neurophysiological mechanisms of the effect (online, short-term, long-term). In a single study more than one stimulation protocol can be employed. Importantly, the nature of a study is always classified according to the effects of the study as a whole, not of individual stimulation protocols. For more information refer to appendix A.
 
 - ***online:*** these protocols rely on immediate excitatory and inhibitory mechanisms that have only instantaneous effects (≤1 sec)*. Examples: pulse or burst TUS protocols (≤1 sec).*
@@ -28,13 +28,13 @@ Stimulation protocols for TUS can be categorized by the duration and neurophysio
 - ***long-term:*** these protocols rely on slow structural modulations of synaptic function*** that have long-lasting effects (>1 week)***.*** These stimulation protocols always entail repeated sessions (e.g. daily) over a prolonged period (e.g. weeks) with typically high-quantity, high-intensity and/or high-frequency pulse delivery.
 - ***other:*** these protocols do not meet any of the above criteria and/or the effects are*** not yet well-known. In general, the procedures for long-term stimulation protocols apply, except if all stimulation parameters (including intensity, frequency and quantity) are similar or lower than those of existing online, short-term, or medium-term stimulation protocols, in which case the respective procedures apply.
 
-# **4. procedures**
+# 4. procedures
 ## 4.1. screening
 Before each experiment session, participants will be screened on possible exclusion criteria using a screening questionnaire. This questionnaire is based on a published international non-invasive brain stimulation safety consensus report (Rossi *et al.*, 2011). In addition to these standardized questions, potential participants are asked whether they have participated in a non-invasive brain stimulation study before. If they respond positively, they are asked about the specifics and time of their last study, and whether they have experienced problems related to their participation in previous studies.
 
 This information is used by the designated certified experimenter to decide whether the participant will be included in the study. In case any questions on the procedure arise, the experimenter can contact the certified lab support staff and institute consultant. In case of any doubt with regard to medical issues, the responsible physician will be consulted. If the certified experimenter or responsible physician has any concerns or doubts regarding the safety of the participants or their ability to follow the required experimental procedures the candidate participant is excluded from participation.
 
-## **4.2. exclusion criteria**
+## 4.2. exclusion criteria
 Exclusion criteria for non-invasive brain stimulation sessions are defined in the MREC approved study protocol. Accordingly, sessions falling under a general DCCN or DCC CMO study protocol will adhere to the latest version of the standardized Donders exclusion criteria screening questionnaires. All other approved studies can accommodate study-specific changes to these standardized exclusion criteria.
 
 The certified experimenter will decide upon inclusion or exclusion of the prospective participant. Unless otherwise stated, it is the norm that participants will be excluded from the session if they meet at least one of the following criteria:
@@ -56,7 +56,7 @@ The certified experimenter will decide upon inclusion or exclusion of the prospe
 - Skin disease at intended stimulation sites
 - The consumption of more than four alcoholic units within 24 hours before participation or any recreational drugs within 48 hours before participation
 
-## **4.3. monitoring adverse events**
+## 4.3. monitoring adverse events
 All observed and reported adverse events are followed until they have abated, or until a stable situation has been reached. When the event concerns the health of the participants, the responsible physician will be consulted. All adverse events are reported in detail to the clinical research coordinator and the institute consultant. In the unlikely scenario of a serious adverse events, the sponsor and MREC will be informed without undue delay.
 
 ### ***4.3.1. online, short-term, and medium-term studies***
@@ -89,13 +89,13 @@ In the unlikely case of an adverse event, the following must be reported as soon
    1. How long the care of the participant lasted
    1. How the participant left the experiment (e.g., the participant was able to leave without assistance; a friend or family member was contacted to pick up the participant; etc).
 
-# **5. risk, safety and burden**
-## **5.1. assessment of risk, safety, and burden**
+# 5. risk, safety and burden
+## 5.1. assessment of risk, safety, and burden
 Assessment of risk, safety, and burden of a study is best safeguarded by ensuring relevant expertise and knowledge is available at the institute, not by putting undue confidence in arbitrary thresholds and parameters. Namely, the efficacy and safety of a stimulation protocol depends on the interaction of numerous parameters. It is expert consensus that no fixed boundaries can be set for any of these parameters in isolation, neither based on empirical evidence nor scientific reasoning. We aim to update this SOP when new evidence and guidelines become available following international expert consensus.
 
 Relevant parameters for TUS are, for example, pressure (MPa), ultrasound frequency (Hz), pulse length (ms), pulse repetition frequency (Hz), stimulation duration (s), duty cycle (%), and parameters relevant to safety such as peak rarefaction pressure (MPa), temperature rise (°C), thermal dose (CEM43°C), and total energy deposited, and parameters relevant to relate the protocol to other studies and guidelines for diagnostic ultrasound, such as intensity (e.g. Isppa, Ispta), mechanical index (MI), and the thermal index of the cranium (TIC).
 
-## **5.2. Safety of online, short-term, and medium-term studies**
+## 5.2. Safety of online, short-term, and medium-term studies
 Please find a synopsis of the risk, safety and burden assessment of online, short-term, and medium-term non-invasive brain stimulation studies below; for more information see appendix B.
 
 ### ***5.2.1. TUS studies***
@@ -108,8 +108,8 @@ Published meta analyses based on the available data suggest that TUS in humans i
 ### ***5.2.2. Studies combining different techniques***
 NIBS techniques can be safely combined with other NIBS and neuroimaging techniques. These combinations, such as TMS or TUS together with EEG, might add to logistical and technical complexity, but are unlikely to change the safety assessments beyond those for the techniques individually. However, for some, such as combining TES with fMRI, additional care is warranted. Here, we follow dedicated expert consensus guides (Esmaeilpour *et al.*, 2020).
 
-# **6. appendices**
-## **6.1. appendix A: supplementary information on TUS**
+# 6. appendices
+## 6.1. appendix A: supplementary information on TUS
 ### ***6.1.1. transcranial ultrasonic stimulation (TUS)***
 Transcranial ultrasonic stimulation (TUS) is an emergent form of non-invasive brain stimulation that is unique in both its ability to stimulate deep brain structures and its high spatial resolution (Fomenko *et al.*, 2018; Tyler, Lani and Hwang, 2018; Kamimura *et al.*, 2020). Unlike other forms of NIBS (i.e., TMS and TES) that employ electromagnetic fields to achieve neuromodulation, TUS delivers mechanical forces through sound waves at a frequency beyond human hearing (Blackmore *et al.*, 2019).
 
@@ -143,7 +143,7 @@ TUS protocols for which the effects transiently outlast the stimulation period f
 Sometimes, it is desirable for TUS to be applied to multiple brain regions during the same experiment. This may take the form of testing whether region A, but not control site region B, is relevant to a particular cognitive function. Alternatively, it could be to test how connected regions A and B might interact concerning a particular cognitive function. Yet another alternative is when an experimenter may wish to stimulate two brain regions simultaneously, for example if one wishes to stimulate both amygdalae. For all three cases, but particularly the latter, special consideration must be taken concerning safety (e.g., controlling the total acoustic energy delivered, thermal dose, and potentially wave interference).
 
 
-## **6.2. appendix B: safety, risk and burden assessment for NIBS**
+## 6.2. appendix B: safety, risk and burden assessment for NIBS
 ### ***6.2.1. transcranial ultrasonic stimulation (TUS)***
 Transcranial ultrasonic stimulation is a non-invasive brain stimulation technique based on mechanical stimulation achieved through ultrasound waves. During stimulation, participants may hear a soft buzzing or tone and experience weak tactile sensations, depending on the transducer mechanics and sonication protocol. All reported side-effects of TUS are transient and occur during or immediately after the stimulation session (Legon *et al.*, 2020).
 
@@ -210,7 +210,7 @@ Simulations of acoustic wave propagation and temperature dynamics can return par
 The acoustic simulation is run until the simulation reaches steady state and simulation convergence is achieved. The resultant pressures are subsequently used to determine the volume rate of heat deposition. The initial temperature of the system is set at 37 °C. Further, sound speed, density, thermal conductivity [W/(m K)] and specific heat [J/(kg K)] are specified based on literature values. Sonication parameters are set following protocol, including: total ultrasonic stimulation time, pulse duration, pulse repetition frequency, burst duration, burst duty cycle, and trial duration. Together the acoustic and thermal simulations are used to provide global and local estimates *Pr*, TR, TD, total energy deposited, and of Isppa and Ispta, supplemented by MI and TIC. Only when, based on the outcome of simulations, we can ensure the minimal risk of thermal and mechanical bioeffects will TUS be applied.
 
 
-# **7. References**
+# 7. References
 Ai, L. *et al.* (2018) ‘Effects of transcranial focused ultrasound on human primary motor cortex using 7T fMRI: a pilot study’, *BMC Neuroscience*, 19(1), p. 56. doi: 10.1186/s12868-018-0456-6.
 
 Blackmore, J. *et al.* (2019) ‘Ultrasound Neuromodulation: A Review of Results, Mechanisms and Safety’, *Ultrasound in Medicine & Biology*, 45(7), pp. 1509–1536. doi: 10.1016/j.ultrasmedbio.2018.12.015.
@@ -283,7 +283,7 @@ Wu, S.-Y. *et al.* (2018) ‘Efficient Blood-Brain Barrier Opening in Primates w
 
 Yoo, S. *et al.* (2020) ‘Focused ultrasound excites neurons via mechanosensitive calcium accumulation and ion channel amplification’, *bioRxiv*, p. 2020.05.19.101196. doi: 10.1101/2020.05.19.101196.
 
-# **8. License**
+# 8. License
 Copyright (c) 2021, Donders Institute All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: • Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. • Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. • Neither the name of this project nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
