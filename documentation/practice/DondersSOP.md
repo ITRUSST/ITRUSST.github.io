@@ -129,7 +129,8 @@ Multiple stimulation parameters are relevant to the application of TUS. These in
 
 A pulse is defined as the shortest continuous administration of ultrasound. An ultrasonic stimulus is defined as the largest singular grouping of ultrasound administration uninterrupted by substantial breaks, such as an inter-trial interval. An ultrasonic stimulus can consist of a single continuous sonication, a train of pulses at a pulse repetition frequency, or patterned pulses. The duty cycle represents the proportion of time during the stimulus duration where ultrasound is delivered (i.e., the percentage of pulse on-time). Given the aforementioned parameters, and appropriate simulations or measurement, indices relevant to TUS safety can be derived: the peak rarefaction pressure (*Pr*), the temperature rise (TR), the thermal dose in cumulative equivalent minutes (CEM43°C), and the total energy deposited. Additional indices can be derived for comparison to published guidelines for diagnostic ultrasound (BMUS, 2010; FDA, 2019). These include the spatial-peak pulse-averaged intensity (Isppa, the average intensity of an individual pulse), the spatial-peak temporal-averaged intensity (Ispta, the average intensity over the ultrasonic stimulus duration), the mechanical index (MI), and the thermal index of the cranium (TIC). The spatial-peak temporal-averaged intensity (Ispta) is calculated conservatively, averaging over the duration of the ultrasonic stimulus.
 
-# Insert figure here
+![](./media/stimulationParameters.png)
+<p><img src="/media/ContactUs.png" alt="" /></p>
 ***Figure 1.*** TUS parameters. Visual representation of common TUS parameters including stimulus duration, trial duration, pulse repetition frequency, pulse duration, duty cycle, and pressure.
 
 
