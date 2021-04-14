@@ -4,6 +4,15 @@ title: contraindications
 parent: example documentation
 grand_parent: practice
 ---
+# Navigation Structure
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 
 # 1. purpose
 This procedure is intended to ensure that non-invasive brain stimulation studies are consistently conducted in accordance with local ethical regulations and international consensus regarding risk and safety.
@@ -57,7 +66,7 @@ Based on the guidelines specified in section 4.4, we distinguish two types of no
 
 Risk assessment will consider multiple stimulation parameters and their possible interactions. These considerations are described in detail in appendix 9.2 based on published expert consensus. For example, to assess whether the risk of a TMS study protocol is considered minimal, we follow (Rossi et al., 2020) which refers to table 4 of (Rossi et al., 2009), listing guidelines for stimulation frequency, intensity, and number of pulses. Following these guidelines, most conventional low-intensity and/or low-frequency TMS and TES protocols are considered minimal additional risk, while specific risk assessment is required for TUS protocols and when multiple interventions are combined.  An overview of the protocols within the guidelines is included in the relevant sections in appendix 9.2.
 
-## 4.6. stimulation protocols 
+## 4.6. stimulation protocols
 Stimulation protocols for TMS, TES, and TUS can be categorized by the duration and neurophysiological mechanisms of the effect (online, short-term, long-term). In a single study more than one stimulation protocol can be employed. Importantly, the nature of a study is always classified according to the effects of the study as a whole, not of individual stimulation protocols. For more information refer to appendix A.
 
 *	online: these protocols rely on immediate excitatory and inhibitory mechanisms that have only instantaneous effects (≤1 sec). Examples: single pulse, burst pulse, and paired pulse TMS, short TES (≤1 min), and pulse or burst TUS protocols (≤1 sec).
