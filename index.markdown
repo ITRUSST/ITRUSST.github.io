@@ -10,18 +10,11 @@ permalink: /
 ![](./media/Background3.png)
 ![](./media/ITRUSSTLogo7.png)
 # Welcome to ITRUSST
-**International Transcranial Ultrasonic Stimulation Safety and Standards.** We are an international collective working together towards the safe and effective application of transcranial focused ultrasound for neuromodulation. ITRUSST aims to establish consensus on expert guides, guidelines, and standardization for this neuromodulatory technique.
-
-*This website is a placeholder for a more developed alternative and acts as a launching pad for our organization's effort.*
+**International Transcranial Ultrasonic Stimulation Safety and Standards.** We are an international consortium working together towards the safe and effective application of transcranial focused ultrasound for neuromodulation. ITRUSST aims to establish consensus on expert guides, guidelines, and standardization for this neuromodulatory technique.
 
 [Get to know us](./about/){: .btn .btn-purple .mx-auto}
 
 ---
-
-### Our organization
-
-We would like to thank our contributors:
-*we may list our experts here*
 
 ### Our repository contributors
 
@@ -32,6 +25,7 @@ We would like to thank our contributors:
   </li>
 {% endfor %}
 </ul>
+
 
 
 <!--
