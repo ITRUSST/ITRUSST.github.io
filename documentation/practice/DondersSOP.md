@@ -13,10 +13,10 @@ grand_parent: practice
 1. TOC
 {:toc}
 
-# **1. purpose**
+# 1. purpose
 This procedure is intended to ensure that non-invasive brain stimulation studies (using TUS) are consistently conducted in accordance with local ethical regulations and international consensus regarding risk and safety.
 
-# **2.  expert guidelines**
+# 2.  expert guidelines
 All certified users and those who plan to use NIBS techniques need to be familiar with the expert guidelines on safety and use of the respective techniques, where available. Minimal required reading for TUS includes: “Ultrasound neuromodulation: A review of results, mechanisms, and safety” (Blackmore *et al.*, 2019); as well as “Safety of transcranial focused ultrasound stimulation: A systematic review of the state of knowledge from both human and animal studies” (Pasquinelli *et al.*, 2019); and “A retrospective qualitative report of symptoms and safety from transcranial focused ultrasound for neuromodulation in humans” (Legon *et al.*, 2020).
 
 # **3. stimulation protocols**
@@ -29,7 +29,7 @@ Stimulation protocols for TUS can be categorized by the duration and neurophysio
 - ***other:*** these protocols do not meet any of the above criteria and/or the effects are*** not yet well-known. In general, the procedures for long-term stimulation protocols apply, except if all stimulation parameters (including intensity, frequency and quantity) are similar or lower than those of existing online, short-term, or medium-term stimulation protocols, in which case the respective procedures apply.
 
 # **4. procedures**
-## **4.1. screening**
+## 4.1. screening
 Before each experiment session, participants will be screened on possible exclusion criteria using a screening questionnaire. This questionnaire is based on a published international non-invasive brain stimulation safety consensus report (Rossi *et al.*, 2011). In addition to these standardized questions, potential participants are asked whether they have participated in a non-invasive brain stimulation study before. If they respond positively, they are asked about the specifics and time of their last study, and whether they have experienced problems related to their participation in previous studies.
 
 This information is used by the designated certified experimenter to decide whether the participant will be included in the study. In case any questions on the procedure arise, the experimenter can contact the certified lab support staff and institute consultant. In case of any doubt with regard to medical issues, the responsible physician will be consulted. If the certified experimenter or responsible physician has any concerns or doubts regarding the safety of the participants or their ability to follow the required experimental procedures the candidate participant is excluded from participation.
