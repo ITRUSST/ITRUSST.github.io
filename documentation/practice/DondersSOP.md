@@ -4,7 +4,6 @@ title: Example standard operating procedure - Donders Institute
 parent: example documentation
 grand_parent: practice
 ---
-# Navigation Structure
 {: .no_toc }
 
 ## Table of contents
