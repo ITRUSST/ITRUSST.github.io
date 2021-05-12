@@ -7,6 +7,8 @@ grand_parent: practice
 # Example standard operating procedure - Donders Institute
 {: .no_toc }
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4751422.svg)](https://doi.org/10.5281/zenodo.4751422)
+
 ## Table of contents
 {: .no_toc .text-delta }
 
