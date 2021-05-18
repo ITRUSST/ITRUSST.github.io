@@ -36,10 +36,6 @@ plugins:
   - jekyll-feed
 logo: "/media/ITRUSSTLogo8.png"
 
-# Google Analytics
-google_analytics: G-7SBLNMKL74
-
-
 
 # This section is for specifying front-matter (YAML) defaults
 # defaults:
