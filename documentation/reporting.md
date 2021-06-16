@@ -6,13 +6,11 @@ nav_order: 2
 ---
 # Standardized Reporting
 
-*Purpose: to establish recommendations and guidelines for standardized reporting of focused ultrasonic neuromodulation in humans*
 
-## Stimulation Paradigms
-Ferte in noctem animam meam illustre stelle viam meam. Aspectu illo glorior dum capit nox diem. Cantate vitae canticum, sine dolore acte. Dicite eis quos amabam numquam obliviscar.
+# members 
 
-## Transducer Properties
-Ferte in noctem animam meam illustre stelle viam meam. Aspectu illo glorior dum capit nox diem. Cantate vitae canticum, sine dolore acte. Dicite eis quos amabam numquam obliviscar.
-
-## Simulations
-Ferte in noctem animam meam illustre stelle viam meam. Aspectu illo glorior dum capit nox diem. Cantate vitae canticum, sine dolore acte. Dicite eis quos amabam numquam obliviscar.
+| First name | Last name   | Membership | Primary field | Primary affiliation                           | Country     |
+|------------|-------------|------------|---------------|-----------------------------------------------|-------------|
+| Kim        | Butts Pauly | co-chair   | research      | Stanford University                           | USA         |
+| Lennart    | Verhagen    | co-chair   | research      | Donders Insitute, Radboud University Nijmegen | Netherlands |
+|            |             |            |               |                                               |             |
