@@ -7,7 +7,7 @@ nav_order: 2
 # planning
 *Purpose: To establish recommendations and guidelines for guidance of focused ultrasound for the purpose of neuromodulation, including simulation, exposimetry, dosimetry, and skull-imaging.*
 
-# Members
+# members
 
 | First   name  | Last   name   | Membership | Primary   field | Primary   affiliation                                  | Country                         |
 |---------------|---------------|------------|-----------------|--------------------------------------------------------|---------------------------------|
