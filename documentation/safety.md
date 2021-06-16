@@ -9,6 +9,7 @@ nav_order: 3
 *Purpose: To establish recommendations and guidelines for safety of transcranial ultrasonic stimulation in humans, including contraindications and reporting of adverse events.*
 
 # members 
+
 | First name    | Last name      | Membership      | Primary field      | Primary affiliation                                | Country         |
 |---------------|----------------|-----------------|--------------------|----------------------------------------------------|-----------------|
 | Jean-Francois | Aubry          | Co-chair safety | research           | National Centre for Scientific Research            | France          |
