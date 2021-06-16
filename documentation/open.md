@@ -9,8 +9,9 @@ nav_order: 7
 
 
 # Members 
-| First name | Last name | Membership | Role          | primary field | primary affiliation             | Country         |
+
+| First name | Last name | Membership | Role          | Primary field | Primary affiliation             | Country         |
 |------------|-----------|------------|---------------|---------------|---------------------------------|-----------------|
 | Benjamin   | Kop       | active     | Co-chair Open | research      | Donders Institute               | The Netherlands |
-| Tulika     | Nandi     | a tive     | Co-chair Open | research      | University Medical Center Mainz |                 |
+| Tulika     | Nandi     | active     | Co-chair Open | research      | University Medical Center Mainz | Germany         |
 |            |           |            |               |               |                                 |                 |
