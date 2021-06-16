@@ -8,6 +8,7 @@ nav_order: 2
 *Purpose: To establish recommendations and guidelines for guidance of focused ultrasound for the purpose of neuromodulation, including simulation, exposimetry, dosimetry, and skull-imaging.*
 
 # Members
+
 | First   name  | Last   name   | Membership | Primary   field | Primary   affiliation                                  | Country                         |
 |---------------|---------------|------------|-----------------|--------------------------------------------------------|---------------------------------|
 | Bradley       | Treeby        | Co-Chair   | Research        | University   College London                            | UK                              |
