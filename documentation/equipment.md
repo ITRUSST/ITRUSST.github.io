@@ -6,7 +6,9 @@ nav_order: 4
 ---
 # equipment
 *Purpose: To establish recommendations and guidelines for equipment supporting transcranial ultrasonic stimulation, including requirements, calibration, and a roadmap for future development and use.*
+
 # members
+
 | First   name | Last   name | Membership | Primary   field      | Primary   affiliation          | Country |
 |--------------|-------------|------------|----------------------|--------------------------------|---------|
 | Elly         | Martin      | Chair      | Research             | University   College London    | UK      |
