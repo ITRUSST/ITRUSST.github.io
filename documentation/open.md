@@ -8,7 +8,7 @@ nav_order: 7
 *Purpose: To establish sharing of resources, guides, and guidelines to support transcranial ultrasonic stimulation. The aim is to make this consortium open and accessible, while accelerating the advancement of the field and its applications.*
 
 
-# Members 
+# members 
 
 | First name | Last name | Membership | Role          | Primary field | Primary affiliation             | Country         |
 |------------|-----------|------------|---------------|---------------|---------------------------------|-----------------|
