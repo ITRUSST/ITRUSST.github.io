@@ -14,7 +14,7 @@ nav_order: 3
 |---------------|----------------|-----------------|--------------------|----------------------------------------------------|-----------------|
 | Jean-Francois | Aubry          | Co-chair safety | research           | National Centre for Scientific Research            | France          |
 | Seung-Schik   | Yoo            | Co-chair Safety | research           | Harvard University                                 | USA             |
-| Andrew        | Thomas         | active          | industry           | Brainbox                                           | UK              |
+| Andrew        | Thomas         | active          | industry           | Brainbox Ltd.                                      | UK              |
 | Anton         | Fomenko        | active          | research           | University of Toronto                              | Canada          |
 | Charles       | Caskey         | active          | research           | Vanderbilt University, Insitute of Imaging Science | USA             |
 | Charlotte     | Stagg          | active          | research           | University of Oxford                               | UK              |
