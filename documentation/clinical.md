@@ -9,6 +9,7 @@ nav_order: 8
 *Purpose: To establish a clinical roadmap for transcranial ultrasonic stimulation, including guidelines for clinical trials but also a preclinical directions.*
 
 # Members
+
 | First   name | Last   name    | Membership | Primary   field | Primary   affiliation                           | Country |
 |--------------|----------------|------------|-----------------|-------------------------------------------------|---------|
 | Christopher  | Butler         | Chair      | Research        | University of   Oxford, Imperial College London | UK      |
