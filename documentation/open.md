@@ -10,8 +10,9 @@ nav_order: 7
 
 # members 
 
-| First name | Last name | Membership | Role          | Primary field | Primary affiliation             | Country         |
-|------------|-----------|------------|---------------|---------------|---------------------------------|-----------------|
-| Benjamin   | Kop       | active     | Co-chair Open | research      | Donders Institute               | The Netherlands |
-| Tulika     | Nandi     | active     | Co-chair Open | research      | University Medical Center Mainz | Germany         |
-|            |           |            |               |               |                                 |                 |
+| First name | Last name    | Membership | Primary field | Primary affiliation             | Country         |
+|------------|--------------|------------|---------------|---------------------------------|-----------------|
+| Benjamin   | Kop          | co-chair   | research      | Donders Institute               | The Netherlands |
+| Tulika     | Nandi        | co-chair   | research      | University Medical Center Mainz | Germany         |
+| Jesse      | van der Spek | active     | research      | Donders Institute               | The Netherlands |
+| Colette    | Reniers      | active     | research      | Donders Institute               | The Netherlands |
