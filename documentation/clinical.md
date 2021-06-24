@@ -10,12 +10,12 @@ nav_order: 8
 
 # Members
 
-| First   name | Last   name    | Membership | Primary   field | Primary   affiliation                           | Country |
-|--------------|----------------|------------|-----------------|-------------------------------------------------|---------|
-| Christopher  | Butler         | Chair      | Research        | University of   Oxford, Imperial College London | UK      |
-| Alexander    | Bystritsky     | Active     | Industry        | BrainSonix                                      | USA     |
-| Ellen        | Bubrick        | Active     | Research        | Brigham and Women's Hospital                    | USA     |
-| Fidel        | Vila-Rodriguez | Active     | Research        | The   University of British Colombia            | Canada  |
-| Hartwig      | Siebner        | Active     | Research        | Danish   Research Centre for Magnetic Resonance | Denmark |
-| Jamie        | Tyler          | Active     | Research        | Arizona   State University, IST                 | USA     |
-| Martin       | Monti          | Active     | Research        | University   of California Los Angeles          | USA     |
+| First   name | Last   name    | Primary   affiliation                           | Country |
+|--------------|----------------|-------------------------------------------------|---------|
+| Alexander    | Bystritsky     | BrainSonix                                      | USA     |
+| **Christopher**  | **Butler**         | University of   Oxford, Imperial College London | UK      |
+| Ellen        | Bubrick        | Brigham and Women's Hospital                    | USA     |
+| Fidel        | Vila-Rodriguez | The   University of British Colombia            | Canada  |
+| Hartwig      | Siebner        | Danish   Research Centre for Magnetic Resonance | Denmark |
+| Jamie        | Tyler          | Arizona   State University, IST                 | USA     |
+| Martin       | Monti          | University   of California Los Angeles          | USA     |
