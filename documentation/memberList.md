@@ -10,7 +10,6 @@ nav_order: 9
 
 | First name    	| Last name      	| Membership	                              | Primary field        	| Primary affiliation                                  	| Country           	|
 |---------------	|----------------	|-----------------------------------------	|----------------------	|------------------------------------------------------	|-------------------	|
-| Ainslie       	| Johnstone      	| past member                             	| research             	| University College London                            	| UK                	|
 | Aki           	| Pulkkinen      	| Active                                  	| Research             	| University of Eastern Finland                        	| Finland           	|
 | Alexander     	| Bystritsky     	| Active                                  	| Industry             	| BrainSonix                                           	| USA               	|
 | Andres        	| Lozano         	|                                         	| Research             	| University of Toronto                                	| Canada            	|
