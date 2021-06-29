@@ -22,7 +22,7 @@ nav_order: 9
 | Bradley       	| Treeby         	| Active                                  	| Research             	| University College London                            	| UK                	|
 | Bruno         	| Quesson        	| Observing                                 | Research              | Centre national de la recherche scientifique         	| France                  	|
 | Carlos        	| Cueto          	| Active                                  	| Research             	| Imperial College London                              	| UK                	|
-| Charles       	| Caskey         	| Active                                  	| Research             	| Vanderbilt University, Insitute of Imaging Science   	| USA               	|
+| Charles       	| Caskey         	| Active                                  	| Research             	| Vanderbilt University, Institute of Imaging Science   | USA               	|
 | Charlotte     	| Stagg          	| Active                                  	| Research             	| University of Oxford                                 	| UK                	|
 | Christian     	| Aurup          	| Observing                                 | Research              | Columbia University                                  	| USA                  	|
 | Christian     	| Boehm          	| Active                                  	| Research             	| ETH Zurich                                           	| Switzerland       	|
