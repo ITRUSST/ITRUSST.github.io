@@ -51,7 +51,7 @@ nav_order: 9
 | Gianmarco     	| Pinton         	| Active                                  	| Research             	| University of North Carolina at Chapel Hill          	| USA               	|
 | Hartwig       	| Siebner        	| Active                                  	| Research             	| Danish Research Centre for Magnetic Resonance        	| Denmark           	|
 | Hazael        	| Montanaro      	| Active                                  	| Research             	| IT’IS Foundation                                     	| Switzerland       	|
-| Hermes        	| Kamimura       	|                                         	| has2157@columbia.edu 	| Columbia University                                  	|                   	|
+| Hermes        	| Kamimura       	|                                         	| Research             	| Columbia University                                  	|                   	|
 | Jamie         	| Tyler          	| Active                                  	| Research             	| Arizona State University, IST                        	| USA               	|
 | Jean-Francois 	| Aubry          	| Co-chair safety                         	| research             	| National Centre for Scientific Research              	| France            	|
 | Jeff          	| Keller         	|                                         	|                      	| Electronics & Innovation, Ltd.                       	|                   	|
