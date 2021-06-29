@@ -8,7 +8,7 @@ nav_order: 9
 
 # member list 
 
-| First name    	| Last name      	| Membership: active/consultant/observing 	| Primary field        	| Primary affiliation                                  	| Country           	|
+| First name    	| Last name      	| Membership	                              | Primary field        	| Primary affiliation                                  	| Country           	|
 |---------------	|----------------	|-----------------------------------------	|----------------------	|------------------------------------------------------	|-------------------	|
 | Ainslie       	| Johnstone      	| past member                             	| research             	| University College London                            	| UK                	|
 | Aki           	| Pulkkinen      	| Active                                  	| Research             	| University of Eastern Finland                        	| Finland           	|
