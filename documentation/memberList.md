@@ -96,8 +96,8 @@ nav_order: 9
 | Sjoerd        	| Meijer         	| Observing                                 | Research              | Donders Institute, Radboud University Nijmegen       	| The Netherlands                  	|
 | Steffen       	| Tretbar        	| Observing                               	| Research              | Fraunhofer Institute for Biomedical Engineering      	| Germany                  	|
 | Susie         	| LeBlang        	| Observing                                	| Research              | Focused Ultrasound Foundation                        	| USA                  	|
-| Sven          	| Bestmann       	| active                                  	| Research             	| University College London                            	| UK                	|
-| Takahiro      	| Osada          	| active                                  	| Research             	| Juntendo University Tokyo                            	| Japan             	|
+| Sven          	| Bestmann       	| Active                                  	| Research             	| University College London                            	| UK                	|
+| Takahiro      	| Osada          	| Active                                  	| Research             	| Juntendo University Tokyo                            	| Japan             	|
 | Tara          	| Kugelman       	| Observing                                 | Research             	| Columbia University                                  	| USA                  	|
 | Thomas        	| Rheineck       	| Observing                                 | Industry              | MR Instruments                                       	| USA                  	|
 | Til Ole       	| Bergmann       	| Active                                  	| Research             	| Johannes Gutenberg University Medical Center Mainz   	| Germany           	|
@@ -109,5 +109,5 @@ nav_order: 9
 | Yasuo         	| Terao          	| Observing                                 | Research              | Kyorin University                                    	| Japan                  	|
 | Yeruham       	| Shapira        	| Observing                                 | Industry            	| Insightec                                            	| Israel                  	|
 | Ying-Zu       	| Huang          	| Observing                                 | Research              | Chang Gung University                                	| Taiwan                  	|
-| Yoshikazu     	| Ugawa          	| active                                  	| Research             	| Fukushima Medical University                         	| Japan             	|
+| Yoshikazu     	| Ugawa          	| Active                                  	| Research             	| Fukushima Medical University                         	| Japan             	|
 | Zhihai        	| Qiu            	| Observing                                	| Research             	| Stanford University                                  	| USA                	|
