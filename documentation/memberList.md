@@ -18,7 +18,7 @@ nav_order: 9
 | Antonio       	| Stanziola      	| Active                                  	| Research             	| University College London                            	| UK                	|
 | Apoutou       	| N'Djin         	| Active                                  	| Research             	| Inserm, LabTAU Lyon                                  	| France            	|
 | Axel          	| Thielscher     	| Active                                  	| Research             	| Tehnicial University of Denmark/DRCMR                	| Denmark           	|
-| Benjamin      	| Kop            	| Active                                  	| Research             	| Donders Institute, Radboud University Nijmegen       	| The Netherlands   	|
+| Benjamin      	| Kop            	| Active                                  	| Research             	| Donders Institute, Radboud University Nijmegen       	| NL   	|
 | Bradley       	| Treeby         	| Active                                  	| Research             	| University College London                            	| UK                	|
 | Bruno         	| Quesson        	| Observing                                 | Research              | Centre national de la recherche scientifique         	| France                  	|
 | Carlos        	| Cueto          	| Active                                  	| Research             	| Imperial College London                              	| UK                	|
@@ -27,18 +27,18 @@ nav_order: 9
 | Christian     	| Aurup          	| Observing                                 | Research              | Columbia University                                  	| USA                  	|
 | Christian     	| Boehm          	| Active                                  	| Research             	| ETH Zurich                                           	| Switzerland       	|
 | Christopher   	| Butler         	| Active                                  	| Research             	| University of Oxford, Imperial College London        	| UK                	|
-| Colette       	| Reniers        	| Active                                  	| Research             	| Donders Institute, Radboud University Nijmegen       	| The Netherlands   	|
+| Colette       	| Reniers        	| Active                                  	| Research             	| Donders Institute, Radboud University Nijmegen       	| NL   	|
 | Cristina      	| Pasquinelli    	| Observing                                	| Research             	| Danish Research Centre for Magnetic Resonance        	| Denmark                 	|
 | David         	| McMullen       	| Observing                                	| Research             	| National Institute of Mental Health                  	| USA                  	|
 | David         	| Attali         	| Active                                  	| Research             	| ESPCI                                                	| France            	|
-| Davide        	| Sabeddu        	| Observing                                	| Research             	| Donders Institute, Radboud University Nijmegen       	| The Netherlands                  	|
+| Davide        	| Sabeddu        	| Observing                                	| Research             	| Donders Institute, Radboud University Nijmegen       	| NL                  	|
 | Debby         	| Klooster       	| Observing                                 | Research             	| Ghent University                                     	| Belgium                  	|
 | Douglas       	| Christensen    	| Active                                  	| Research             	| The University of Utah                               	| USA               	|
 | Elisa         	| Konofagou      	| Observing                                	| Research             	| Columbia University                                  	| USA                  	|
 | Ellen         	| Bubrick        	| Active                                  	| Research             	| Brigham and Women's Hospital                         	| USA               	|
 | Elly          	| Martin         	| Active                                  	| Research             	| University College London                            	| UK                	|
 | Elsa          	| Fouragnan      	| Active                                  	| Research             	| Plymouth University                                  	| UK                	|
-| Elwin         	| van ‘t Wout    	| Active                                  	| Research             	| Pontificia Universidad Católica de Chile             	| Republic of Chile 	|
+| Elwin         	| van ‘t Wout    	| Active                                  	| Research             	| Pontificia Universidad Católica de Chile             	| Chile 	|
 | Erik          	| Dumont         	| Observing                                 | Industry             	| Image Guided Therapy                                 	| France                  	|
 | Esra          	| Neufeld        	| Active                                  	| Research             	| IT’IS Foundation                                     	| Switzerland       	|
 | Ethan         	| Bendau         	| Observing                                	| Research             	| Columbia University                                  	| USA                  	|
@@ -55,7 +55,7 @@ nav_order: 9
 | Jean-Francois 	| Aubry          	| Active                                   	| Research             	| National Centre for Scientific Research              	| France            	|
 | Jeff          	| Keller         	| Observing                                 | Industry              | Electronics & Innovation, Ltd.                       	| USA                  	|
 | Jerome        	| Sallet         	| Active                                    | Research             	| INSERM, university of Oxford                         	| UK                	|
-| Jesse         	| van der Spek   	| Active                                  	| Research             	| Donders Institute, Radboud University Nijmegen       	| The Netherlands   	|
+| Jesse         	| van der Spek   	| Active                                  	| Research             	| Donders Institute, Radboud University Nijmegen       	| NL   	|
 | Jing          	| Yun            	| Active                                  	| Research             	| Penn State University                                	| USA               	|
 | Joel          	| Serge          	| Observing                                 | Industry             	| X Company                                            	| USA                  	|
 | John          	| Rothwell       	| Observing                                 | Research              | University College London                            	| UK                  	|
@@ -66,7 +66,7 @@ nav_order: 9
 | Kim           	| Butts Pauly    	| Active                                    | Research             	| Stanford University                                  	| USA               	|
 | Kullervo      	| Hynynen        	| Active                                  	| Research             	| Sunnybrook Research Institute                        	| Toronto           	|
 | Kyle          	| Morrison       	| Active                                  	| Industry             	| Sonic Concepts                                       	| USA               	|
-| Lennart       	| Verhagen       	| Active                                  	| Research             	| Donders Insitute, Radboud University Nijmegen        	| Netherlands       	|
+| Lennart       	| Verhagen       	| Active                                  	| Research             	| Donders Insitute, Radboud University Nijmegen        	| NL       	|
 | Lluis         	| Guasch         	| Active                                  	| Research             	| Imperial College London                              	| UK                	|
 | Marc          	| Fournelle      	| Observing                                 | Research             	| The Fraunhofer Institute                             	| Germany                  	|
 | Marcus        	| Kaiser         	| Observing                                 | Research            	| University of Nottingham                             	| UK                  	|
@@ -85,7 +85,7 @@ nav_order: 9
 | Pat           	| Marty          	| Active                                  	| Research             	| ETH Zurich                                           	| Switzerland       	|
 | Pierre        	| Pouget         	| Observing                                 | Research              | National Centre for Scientific Research              	| France                  	|
 | Pierre        	| Gelat          	| Active                                  	| Research             	| University College London                            	| UK                	|
-| Rob           	| Mestrom        	| Observing                                 | Research              | Eindhoven University of Technology                   	| The Netherlands                  	|
+| Rob           	| Mestrom        	| Observing                                 | Research              | Eindhoven University of Technology                   	| NL                  	|
 | Robert        	| Chen           	| Active                                  	| Research             	| University Health Network                            	| Canada            	|
 | Robin         	| Cleveland      	| Active                                  	| Research             	| University of Oxford                                 	| UK                	|
 | Ryan          	| Jones          	| Observing                                 | Research             	| Sunnybrook Research Institute                        	| Canada                  	|
@@ -93,7 +93,7 @@ nav_order: 9
 | Seiki         	| Konishi        	| Observing                                 | Research             	| Juntendo University                                  	| Japan                  	|
 | Seung-Schik   	| Yoo            	| Active                                  	| Research             	| Harvard University                                   	| USA               	|
 | Siti          	| Yaakub         	| Active                                  	| Research             	| University of Plymouth                               	| UK                	|
-| Sjoerd        	| Meijer         	| Observing                                 | Research              | Donders Institute, Radboud University Nijmegen       	| The Netherlands                  	|
+| Sjoerd        	| Meijer         	| Observing                                 | Research              | Donders Institute, Radboud University Nijmegen       	| NL                  	|
 | Steffen       	| Tretbar        	| Observing                               	| Research              | Fraunhofer Institute for Biomedical Engineering      	| Germany                  	|
 | Susie         	| LeBlang        	| Observing                                	| Research              | Focused Ultrasound Foundation                        	| USA                  	|
 | Sven          	| Bestmann       	| Active                                  	| Research             	| University College London                            	| UK                	|
