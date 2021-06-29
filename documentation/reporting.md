@@ -9,8 +9,8 @@ nav_order: 2
 
 # members 
 
-| First name | Last name   | Membership | Primary field | Primary affiliation                           | Country     |
-|------------|-------------|------------|---------------|-----------------------------------------------|-------------|
-| Kim        | Butts Pauly | co-chair   | research      | Stanford University                           | USA         |
-| Lennart    | Verhagen    | co-chair   | research      | Donders Insitute, Radboud University Nijmegen | Netherlands |
-|            |             |            |               |                                               |             |
+| First name | Last name   | Primary affiliation                           | Country     |
+|------------|-------------|-----------------------------------------------|-------------|
+| Kim        | Butts Pauly | Stanford University                           | USA         |
+| Lennart    | Verhagen    | Donders Insitute, Radboud University Nijmegen | Netherlands |
+|            |             |                                               |             |
