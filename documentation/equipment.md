@@ -9,10 +9,10 @@ nav_order: 4
 
 # members
 
-| First   name | Last   name | Membership | Primary   field      | Primary   affiliation          | Country |
-|--------------|-------------|------------|----------------------|--------------------------------|---------|
-| Elly         | Martin      | Chair      | Research             | University   College London    | UK      |
-| Andrew       | Thomas      | Active     | Industry             | Brainbox                       | UK      |
-| Elsa         | Fouragnan   | Active     | Research             | Plymouth   University          | UK      |
-| Kyle         | Morrison    | Active     | Industry             | Sonic   Concepts               | USA     |
-| Mark         | Schafer     | Active     | Research,   industry | Drexel   University/Brainsonix | USA     |
+| First   name | Last   name | Primary   affiliation          | Country |
+|--------------|-------------|--------------------------------|---------|
+| Elly         | Martin      | University   College London    | UK      |
+| Andrew       | Thomas      | Brainbox                       | UK      |
+| Elsa         | Fouragnan   | Plymouth   University          | UK      |
+| Kyle         | Morrison    | Sonic   Concepts               | USA     |
+| Mark         | Schafer     | Drexel   University/Brainsonix | USA     |
