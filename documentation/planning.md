@@ -7,17 +7,17 @@ nav_order: 2
 # planning
 *Purpose: To establish recommendations and guidelines for guidance and planning of focused ultrasound for the purpose of neuromodulation, including acoustic and thermal simulations, calculating exposure and dose parameters, and skull-imaging.*
 
-# short-term goals 
+## short-term goals 
 - To complete phase 1 of modelling intercomparison 
 - To make recommendations for a thermal index relevant for TUS (in collaboration with the Safety focus group) 
 - To reach consensus around mapping images acoustic properties 
 
-# 1 year goals (09/2022) 
+## 1 year goals (09/2022) 
 - To move on to the next phases on modelling intercomparison 
 - To reach consensus/guidleines for the thermal index 
 
 
-# members
+## members
 
 | First   name  | Last   name   | Primary   affiliation                                  | Country                         |
 |---------------|---------------|--------------------------------------------------------|---------------------------------|
