@@ -4,7 +4,7 @@ title: open
 nav_order: 7
 # has_children: true
 ---
-# Open Working Group
+# open working group
 *Purpose: To establish sharing of resources, guides, and guidelines to support transcranial ultrasonic stimulation. The aim is to make this consortium open and accessible, while accelerating the advancement of the field and its applications.*
 
 ## short-term goals 
