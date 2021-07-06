@@ -26,6 +26,7 @@ has_children: true
 | Hartwig    | Siebner     | Danish Research Centre for Magnetic Resonance Copenhagen | Denmark     |
 | Keith      | Murphy      | Stanford University                                      | USA         |
 | Kim        | Butts Pauly | Stanford University                                      | USA         |
+| Lennart    | Verhagen    | Donders Insitute, Radboud University Nijmegen            | Netherlands |
 | Sven       | Bestmann    | University College London                                | UK          |
 | Takahiro   | Osada       | Juntendo University Tokyo                                | Japan       |
 | Tulika     | Nandi       | Johannes Gutenberg University Medical Center Mainz       | Germany     |
