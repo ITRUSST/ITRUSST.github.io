@@ -7,7 +7,13 @@ has_children: true
 # practice
 *Purpose: To establish recommendations and guidelines for standardized practice, including a guide for beginners, best practices, lab setup, experimental design, and consideration of confounds.*
 
-# members 
+## short-term goals 
+- To have a first draft of a beginners recommendations/guide for TUS 
+
+## 1 year goals (06/2022)
+- Have a published guide for beginners 
+
+## members 
 
 | First name | Last name   | Primary affiliation                                      | Country     |
 |------------|-------------|----------------------------------------------------------|-------------|
