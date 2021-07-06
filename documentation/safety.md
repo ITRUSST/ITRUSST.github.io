@@ -8,12 +8,12 @@ nav_order: 3
 # safety
 *Purpose: To establish recommendations and guidelines for safety of transcranial ultrasonic stimulation (TUS) neuromodulation in humans, including contraindications and reporting of adverse events. We will start from a safety guideline on testing healthy humans and expand (later) to patient-/disease-specific guidelines. We will also start from single-session testing and expand (later) to multi-session guidelines.*
 
-# short-term goals 
+## short-term goals 
 - To report on a review of literature concerning TUS safety 
 - To recommend a metric for mechanical and thermal safety (in collaboration with the Reporting and Planning focus groups) 
 - To recommend exclusion/inclusion criteria for healthy volunteers and patients (in collaboration with the Clinical focus group) 
 
-# 1 year goals (09/2022) 
+## 1 year goals (06/2022) 
 - To provide guidelines for mechanical and thermal safety 
 - To provide guidelines for exclusion/inclusion criteria for healthy volunteers and patients 
 
