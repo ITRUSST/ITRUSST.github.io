@@ -4,7 +4,7 @@ title: planning
 nav_order: 2
 # has_children: true
 ---
-# planning
+# planning working group
 *Purpose: To establish recommendations and guidelines for guidance and planning of focused ultrasound for the purpose of neuromodulation, including acoustic and thermal simulations, calculating exposure and dose parameters, and skull-imaging.*
 
 ## short-term goals 
