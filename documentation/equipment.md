@@ -7,12 +7,6 @@ nav_order: 4
 # equipment
 *Purpose: To establish recommendations and guidelines for equipment supporting focused ultrasonic neuromodulation, including primarily quality assurance and output checks, requirements for information and logging, as well as calibration and characterisation, (and a roadmap for future development and use).*
 
-## short-term goals 
-- 
-
-## 1 year goals (06/2022)
-
-
 ## members
 
 | First   name | Last   name | Primary   affiliation          | Country |
