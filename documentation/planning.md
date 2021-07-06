@@ -10,7 +10,6 @@ nav_order: 2
 ## short-term goals 
 - To complete phase 1 of modelling intercomparison 
 - To make recommendations for a thermal index relevant for TUS (in collaboration with the Safety focus group) 
-- To reach consensus around mapping images acoustic properties 
 
 ## 1 year goals (09/2022) 
 - To move on to the next phases on modelling intercomparison 
