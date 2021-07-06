@@ -4,7 +4,7 @@ title: practice
 nav_order: 5
 has_children: true
 ---
-# practice
+# practice working group
 *Purpose: To establish recommendations and guidelines for standardized practice, including a guide for beginners, best practices, lab setup, experimental design, and consideration of confounds.*
 
 ## short-term goals 
