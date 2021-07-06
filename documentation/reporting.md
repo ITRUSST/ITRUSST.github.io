@@ -4,7 +4,7 @@ title: reporting
 nav_order: 2
 # has_children: true
 ---
-# Standardized Reporting
+# reporting working group
 *Purpose: to establish recommendations and guidelines for standardized reporting of focused ultrasonic neuromodulation in humans.* 
 
 ## short-term goals 
