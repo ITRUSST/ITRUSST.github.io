@@ -11,8 +11,8 @@ nav_order: 8
 
 | First   name | Last   name    | Primary   affiliation                           | Country |
 |--------------|----------------|-------------------------------------------------|---------|
+| Christopher  | Butler         | University of   Oxford, Imperial College London | UK      |
 | Alexander    | Bystritsky     | BrainSonix                                      | USA     |
-| **Christopher**  | **Butler**         | University of   Oxford, Imperial College London | UK      |
 | Ellen        | Bubrick        | Brigham and Women's Hospital                    | USA     |
 | Fidel        | Vila-Rodriguez | The   University of British Colombia            | Canada  |
 | Hartwig      | Siebner        | Danish   Research Centre for Magnetic Resonance | Denmark |
