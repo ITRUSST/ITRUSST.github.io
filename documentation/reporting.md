@@ -19,8 +19,12 @@ nav_order: 2
 
 ## members 
 
-| First name | Last name   | Primary affiliation                           | Country     |
-|------------|-------------|-----------------------------------------------|-------------|
-| Kim        | Butts Pauly | Stanford University                           | USA         |
-| Lennart    | Verhagen    | Donders Insitute, Radboud University Nijmegen | Netherlands |
-|            |             |                                               |             |
+| First name      | Last name   | Primary affiliation                           | Country     |
+|-----------------|-------------|-----------------------------------------------|-------------|
+| Kim             | Butts Pauly | Stanford University                           | USA         |
+| Lennart         | Verhagen    | Donders Insitute, Radboud University Nijmegen | Netherlands |
+| Gail          	| ter Haar  	| The Institue of Cancer Research         	    | UK        	|
+| Mark          	| Schafer   	| Brainsonix                              	    | USA        	|
+| Robin         	| Cleveland 	| University of Oxford                    	    | UK        	|
+| Bradley       	| Treeby    	| University College London               	    | UK        	|
+| Jean-Francois 	| Aubry     	| National Centre for Scientific Research 	    | France    	|
