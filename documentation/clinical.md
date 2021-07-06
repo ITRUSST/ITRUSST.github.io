@@ -7,7 +7,7 @@ nav_order: 8
 # clinical working group
 *Purpose: To establish a clinical roadmap for transcranial ultrasonic stimulation, including guidelines for clinical trials but also a preclinical directions.*
 
-# members
+## members
 
 | First   name | Last   name    | Primary   affiliation                           | Country |
 |--------------|----------------|-------------------------------------------------|---------|
