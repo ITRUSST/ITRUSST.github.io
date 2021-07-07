@@ -58,7 +58,7 @@ nav_order: 9
 | Jerome        	| Sallet         	| safety                                         	| Research           	| INSERM, university of Oxford                         	| UK          	|
 | Jesse         	| van der Spek   	| open, admin                                    	| Research           	| Donders Institute, Radboud University Nijmegen       	| NL          	|
 | Jing          	| Yun            	| planning                                       	| Research           	| Penn State University                                	| USA         	|
-| Joel          	| Serge          	| observer                                       	| Industry           	| X Company                                            	| USA         	|
+| Joel          	| Segre          	| observer                                       	| Industry           	| X Company                                            	| USA         	|
 | John          	| Rothwell       	| observer                                       	| Research           	| University College London                            	| UK          	|
 | John          	| Snell          	| observer                                       	| Research           	| Focused Ultrasound Foundation                        	| USA         	|
 | José          	| Pineda-Pardo   	| observer                                       	| Research           	| hmCINAC                                              	| Spain       	|
@@ -83,7 +83,7 @@ nav_order: 9
 | Norman        	| Spivak         	| observer                                       	| Research           	| University of California, Los Angeles                	| USA         	|
 | Olivier       	| Le Baron       	| observer                                       	| Industry           	| Imasonic                                             	| France      	|
 | Oscar         	| Bates          	| planning                                       	| Research           	| Imperial College London                              	| UK          	|
-| Pat           	| Marty          	| planning                                       	| Research           	| ETH Zurich                                           	| Switzerland 	|
+| Patrick         | Marty          	| planning                                       	| Research           	| ETH Zurich                                           	| Switzerland 	|
 | Pierre        	| Pouget         	| observer                                       	| Research           	| National Centre for Scientific Research              	| France      	|
 | Pierre        	| Gelat          	| planning                                       	| Research           	| University College London                            	| UK          	|
 | Rob           	| Mestrom        	| observer                                       	| Research           	| Eindhoven University of Technology                   	| NL          	|
