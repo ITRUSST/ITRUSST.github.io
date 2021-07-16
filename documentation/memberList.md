@@ -57,7 +57,7 @@ nav_order: 9
 | Jerome        	| Sallet         	| safety                                         	| Research           	| INSERM, university of Oxford                         	| UK          	| Sallet         	|
 | Jesse         	| van der Spek   	| open, admin                                    	| Research           	| Donders Institute, Radboud University Nijmegen       	| NL          	| Verhagen       	|
 | Jing          	| Yun            	| planning                                       	| Research           	| Penn State University                                	| USA         	| Yun            	|
-| Jiri 	          | Jaros 	        | planning                                        | Research            | Brno University of Technology 	                      | Czech Republic          |
+| Jiri 	          | Jaros 	        | planning                                        | Research            | Brno University of Technology 	                      | Czech Republic | Jaros    |
 | Joel          	| Segre          	| observer                                       	| Industry           	| X Company                                            	| USA         	| -              	|
 | John          	| Snell          	| observer                                       	| Research           	| Focused Ultrasound Foundation                        	| USA         	| -              	|
 | John          	| Rothwell       	| observer                                       	| Research           	| University College London                            	| UK          	| -              	|
