@@ -34,6 +34,7 @@ nav_order: 2
 | Hazael        | Montanaro     | IT’IS   Foundation                                     | Switzerland             |
 | Jean-Francois | Aubry         | National   Centre for Scientific Research              | France                  |
 | Jing          | Yun           | Penn   State University                                | USA                     |
+| Jiri 	        | Jaros 	      | Brno University of Technology 	                       | Czech Republic          |
 | Kullervo      | Hynynen       | Sunnybrook   Research Institute                        | Toronto                 |
 | Lennart       | Verhagen      | Donders Insitute, Radboud University Nijmegen          | Netherlands             |
 | Lluis         | Guasch        | Imperial   College London                              | UK                      |
