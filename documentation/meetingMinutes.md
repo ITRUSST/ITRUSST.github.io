@@ -2,7 +2,7 @@
 layout: default
 title: meeting minutes
 nav_order: 10
-# has_children: true
+has_children: true
 ---
 # Meeting minutes
 Below you can view the minutes recorded from the assorted ITRUSST plenary meetings. These minutes are not a word-for-word record, but contain the content of each entire meeting. Opinions expressed in the minutes do not necessarily reflect the consensus opinion of ITRUSST. This work is subject to a creative commons license (CC BY-NC-ND) 
