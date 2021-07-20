@@ -1,0 +1,163 @@
+# Meeting minutes April 15, 2021 
+
+## Agenda
+
+-   Introduction of FUN2021 
+-   Updates from individual working groups 
+-   Plenary discussion on standardized reporting 
+
+## Summary
+
+During this meeting, Lennart Verhagen introduced the agenda of today, together with FUN 2021. After this, we received updates from individual working groups. Finally, Lennart presented discussion points about standardized reporting. This is work in progress. So please give comments and feedback.
+
+## Attendance report
+
+-   Ainslie Johnstone
+-   Alexander Bystritsky
+-   Andrew Thomas
+-   Anton Fomenko
+-   Apoutou N'Djin
+-   Axel Thielscher
+-   Charles Caskey
+-   Colette Reniers
+-   Cristina Pasquinelli
+-   David Attali
+-   Ellen Bubrick
+-   Elly Martin
+-   Elsa Fouragnan
+-   Fidel Vila
+-   Ghazal Darmani
+-   Gianmarco Pinton
+-   Hartwig Siebne
+-   Jeroma Sallet
+-   Jesse van der Spek
+-   John Snell
+-   Keith Murphy
+-   Kim Butts Pauly
+-   Lennart Verhagen
+-   Mark Schafer
+-   Martin Monti
+-   Meike Jodies
+-   Nethan McDannold
+-   Robert Chen
+-   Robert Cheng
+-   Samuel Richardo
+-   Sjoerd Meijer
+-   Suzanne Leblang
+-   Sven Bestmann
+-   Takahro Osada
+-   Til Ole Bergmann
+-   Tulika Nandi
+-   Wynn Legon
+-   Yasuo Terao
+-   Yoshikazu Ugawa
+
+
+## Meeting proceedings 
+
+**Lennart Verhagen:** Thank you all for the fantastic work. Apologies for limited availability and also for the equipment survey not being 100% inclusive. The survey will be reviewed and used as an internal questionnaire for information gathering. We will do our usual round along all focus working groups to ask reporting how everything is going. Are there any other urgent matters that should be added? FUN 2021 announcement.
+
+**Til Ole Bergmann:** Is there a website I can refer to for e.g., ethic committee
+
+**Lennart Verhagen**: There will be a website, domain names are claimed. You can check[  https://itrusst.github.io/](https://itrusst.github.io/) as primary website, however, it is not finished and should be more inclusive. Looking for external funding for this.
+
+**Kim Butts Pauly**: Announcement of FUN 2021, hopefully everyone received the email. Abstract deadline will be June 1 for Orals and August 1 for Posters. The conference will be September 7-9. Please forward the internal email, and save the date!
+
+**Lennart Verhagen:** The main topic of today will be a continuation of discussion on standardized reporting. We are doing this plenarily to get an idea of the minimum one should report per our recommendations. On planning for the next two meetings are more detailed discussions from the safety and planning working groups. If other groups would like to present, please contact Lennart.
+
+---
+*Update focus groups* 
+
+**-Planning group-**
+\
+**Samuel Pichardo**: Brad Treeby did an amazing job in facilitating all the communication. Next meeting will be soon, we are advancing really well.
+
+**Kim Butts Pauly:** We have been starting to talk about state-of-the-art MRI for phase correction and modeling and standardized derating. We will continue our discussion.
+
+**Lennart Verhagen:** Can we expect a presentation with results before the summer?
+
+**Samuel Pichardo:** We will have to check during the next meeting, but seeing the progress, we probably are able to do that. However, it first needs to be discussed.
+
+**-Safety group-**
+\
+**Elsa Fouragnan**: We mainly focused on adverse events and side effects and the definition of this. Often not reported in literature. We are also thinking about redoing simulations of specific articles, how to report, and comparing everything to other studies.
+
+**-Equipment group-**
+\
+**Elly Martin:** We have not met up since the previous meeting due to the holidays etc., so I'm afraid we don't have an update. We will meet up soon. 
+
+**-Practice group-**
+\
+**Til Ole Bergmann:** We are making progress and started filling in the practical guide with content. We're making an accessible guide for beginners. We won't make anything public before other groups are finished. When it's properly finished, we will show it to ITRUSST and only then decide how to publish it. But it's not only for our members, also for others/beginners.
+
+**Lennart Verhagen:** You can always post something, as long as it's clear if there is no consensus, consensus within the expert focus group, or consensus of the whole group (i.e., ITRUSST).
+
+**-Open group-**
+\
+**Tulika Nandi:** Lennart's lab arranged a license and we began to decide what resources to use to share documents, data and code. After that, other groups know how to share their resources. We have a twitter account now, please follow us (@itrusst)! If anyone has designing skills, we still need a new logo, please contact us!
+
+**Lennart Verhagen:** [**https://itrusst.github.io/documentation/practice/DondersSOP.html**](https://itrusst.github.io/documentation/practice/DondersSOP.html)This link shows an example of how to document and publicly share our things. This is an example, but is not an ITRUSST wide example, so it would be great to have input from other voices as well.
+
+**Charles Caskey**: Do you want other institutes and groups to send similar documents as you have put online?
+
+**Lennart Verhagen:** I would love that. This is just our example to inspire other labs to also put documents forward. It is not meant to be a consensus, it is an example and we hope a lot of things are put forward!!
+
+**Charles Caskey:** Thank you for explaining, if more is up there, it would look less like a consensus indeed.
+
+**-Clinical group-**
+\
+**Fidel Vila:** We've been meeting every other week. However, I was not able to meet last week. Maybe Robert, Ellen or Chris can provide us with the latest update?
+
+**Martin Monti:** Our discussion is trying to focus on different items. We are discussing existing registered clinical trials and their adverse events. What has been reported for specifically human trials. We also discussed the relationship between data on safety assessed at different levels/models (small/large animals/humans). We haven't explored the best way to set up a clinical trial.
+
+**Robert Chen:** We think there is overlap between clinical and safety groups which we should discuss.
+
+**Lennart Verhagen:** We don't want doubling of work, I noted it down. Martin and Robert, I will briefly get in touch how we can streamline this.
+
+---
+**Presentation**
+
+**Lennart Verhagen**: Standardized reporting arises from ongoing discussions in the safety, clinical and reporting focus groups. The content for side effects and interpretation falls within the safety group. Now we will discuss reporting of those to make sure we are on the same definition concerning what they should include in the future. First, we have prepared a presentation based on work in the safety group. Sjoerd Meijer, Alan, Elly Martin made the slides. I will just click through slides.
+
+Objectives:
+- now: minimal and recommended reporting guidelines.
+- later: compile an international database of adverse event reports for all published studies.
+- later: consensus report on safety of TUS for human neuromodulation.
+
+Explains definitions. Please contact Lennart if your country has different definitions, this is only FDA & EMA.
+
+**Lennart Verhagen:** Talks about side effects and adverse events. Does this match up with others?
+
+**Fidel Vila:** The word side effect is problematic. Medical agencies don't define side effects, and people reading reports might confuse side effects and adverse events. Just wondering if side effects are the best terminology.
+
+**Hartwig Siebner:** Let's call it 'other' and add 's' after the event.
+
+**Lennart Verhagen:** I can update it immediately, thanks for the input.
+
+**Ellen Bubrick:** Maybe call it just 'expected physiological effects'. But 'other effects' is fine to.
+
+**Lennart Verhagen:** Regarding reporting, we want everyone who runs a study where there are no adverse events to also explicitly report that there were no adverse events. I also want to know what people consider an adverse event?
+
+**Fidel Vila:** I would call headache and fatigue an adverse event. The wording gets you in trouble with people who experience it. You can use standardized wording like mild, moderate, severe.
+
+**Mark Schafer:** It depends on what kind of trial. Sometimes we expect a headache, so we don't call it an adverse event.
+
+**Lennart Verhagen:** We don't want to change laws in any country. We want to give people an honest expectation of participating in such a trial.
+
+**Tulika Nandi:** How do we ask participants/gather information on events/side effects/pain? Do we ask about specific effects, or do we let the participant tell us what they experience?
+
+**Lennart Verhagen:** Will talk about this later. Fidel, how do you handle adverse events at your institution?
+
+**Fidel Vila:** I will check how we do this, I don't want to steer the discussion if I'm not sure.
+
+**Ellen Bubrick:** It's important to remember who we are reporting it to? It depends, FDA doesn't care about tooth pain or something. So, what is the audience?
+
+**Anton Fomenko:** Important distinction in your diagram is medical vs non-medical. Everything physical can be considered medical. What does medical mean?
+
+**Lennart Verhagen:** Very difficult, it's part of the FDA definition as well. We adopted definitions as they are international/nationally in place. Refers to pdf. Let's move on for the sake of time. We will skip recommended reporting, we want a lot of information. We would maybe like an international database with standardized forms + safety reports + anonymization + accessibility to align reporting. This is very complicated and a lot of factors, but it would be great also for meta-studies. Don't have to rely on databases and searches. Please do get in touch about this.
+
+Getting back to Tulika regarding safety assessment. It would be helpful to associate between general risk and additional risk. There is a lot of experience in other interventions. Regarding safety assessment, it's important that participants know the general risk and burdens of participating. Forced-choice questionnaires are often suggestive, causing bias and over-estimation of burden. Control trials which are randomized and even double blind allow for direct comparison and analyzing risk and burden. In our institute we have open-label, non-controlled studies. Only one open question and only follow up if answered with 'yes, something unpleasant happened'. Please come forward in the reporting working group if you have any experience with this, so we can work towards a standardized safety debriefing protocol. 
+
+**Lennart Verhagen:** Eyes on the time, any questions? Thank you for being here!
+
+**END OF MEETING**
