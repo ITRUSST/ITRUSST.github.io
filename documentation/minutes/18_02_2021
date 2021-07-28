@@ -1,0 +1,118 @@
+---
+layout: default
+title: February 18, 2021
+parent: meeting minutes
+---
+
+# Minutes meeting February 18, 2021 
+
+## Agenda
+
+- Confirm final name of this consortium (ITRUSST) 
+
+- Discussion of consortium infrastructure (website, internal communication medium/media 
+
+- First discussion of FUN conference headed by Kim Butts Pauly 
+
+- Updates from focus groups 
+
+## Summary
+
+The name of this consortium is now officially ITRUSST. A GitHub repository has been initialized that will also serve to host the website on which we will publish our content online. This includes preliminary content for which consensus has not been officially reached, given such content is clearly indicated as a work in progress. There will be a licensing arrangement to circumvent improper use of anything posted online.
+
+For communication within ITRUSST, Slack will be used as our main channel of communication. Here, each working group will have their own channel.
+
+Kim Butts-Pauly is spearheading a FUN conference in 2021. Together, we can determine which dates suit the majority of ITRUSST. Kim welcomes any help, particularly on the online environment of the conference (e.g., how to best do posters online).
+
+We received updates from the individual working groups. From the next meeting on, each meeting will likely be focused on a specific working group's topic, rather than a general discussion of each working group's progress. Next meeting, we will focus on nomenclature.
+
+## Attendance report (non-exhaustive)
+- Benjamin Kop
+- Brad Treeby 
+- Charles Caskey 
+- Chris Butler 
+- Elly Martin 
+- Elsa Fouragnon 
+- Fidel Vila 
+- Kim Butts Pauly 
+- Lennart Verhagen 
+- Seung-Schik Yoo 
+- Til Ole Bergmann 
+
+## Meeting proceedings
+**Lennart Verhagen:** we have confirmed our ultimate name, being ITRUSST, by vote. Today we will cover updates from the different working groups and Kim will discuss an upcoming conference/workshop. We are setting up google groups for email lists and slack for communication medium. From tomorrow onwards, we might already start publishing some of the completed work on online documentation (see itrusst.github.io). Eventually, this will be linked to itrusst.org which will be our main online presence.
+
+All the leaders of working groups will be moderators of their sub-committees. 
+
+We don't want to give people the false impression that everything published is already consensus, so the content of the online repository will be marked as preliminary where applicable; we will be clear that the online presence is still at a work in progress stage.
+
+In summary, we are going to establish our communication channels through Slack and mailing lists; once we have that established we will move on to making sure GitHub is arranged so we can work with online documentation.
+
+**Til Ole Bergmann:** at what point will we move content from google docs to the website?
+
+**Lennart Verhagen:** the strategy is that we keep google docs as our collaboration tool. But on some of our topics we already have draft proposals or even examples that we share amongst ourselves. Depending on the working group, this information can be uploaded at the group leader's discretion. Some groups require less consensus, for example the Practice group, and therefore are likely to be able to upload their content at an earlier time point.
+
+**Til Ole Bergmann:** Okay, so we will continue with our google doc for now then, and then move to online at a later stage.
+
+**Fidel Vila:** While I think it's important to be transparent and to have documentation on the web that is widely available, one concern that came up was that even though the draft documents can be flagged and clearly identified as such, once something is posted it can take on a life of its own. In summary, Fidel is worried that draft content might be taken as the current understanding rather than a work in progress.
+
+**Lennart Verhagen:** that risk is important, and the risk also depends on which focus group. For example, this is a very valid concern for the safety working group but less so for the practice working group. The choice to upload online is completely under control of the individual working groups. Furthermore, there will be licensing on the git repository to make sure there is no inappropriate use of our published content, even if it is at a preliminary stage.  
+
+**Charles Caskey:** the slack structure is going to be one channel per working group initially? *Yes.*
+
+**Lennart Verhagen:** second point; organizing a conference. Kim?
+
+**Kim Butts Pauly:** As the FUN conference in 2019 was a highlight for her, she would like to organize a conference in 2021. She put together some thoughts on how we can do a conference remotely, including a few possible time slots between other conferences. There are a few options for online hosting a conference. We could do posters in different zoom rooms or use an alternative. Finding a time that works for everyone might be a bit tricky.
+
+**Charles Caskey:** do a poll about which date would be best.
+
+---
+*Update focus groups* 
+
+**Lennart Verhagen:** moving on to the working group updates. From the next meeting onwards, we'll likely pick out one topic that we will spend a bit more time on. Here, we can go into more depth and move towards a larger discussion that may concern reaching consensus on a given topic.  So, this may be one of the last meetings where we have a global update from each group.
+
+**Safety Working Group (Seung-Schik Yoo):** safety working group; meeting biweekly. Prof. Aubry was unavailable today so Seung-Schik is reporting what they've done. They've divided their work into 10 different sub goals, and assigned a primary person who will be leading the conversation for each of these goals. Working hard to get some of the updates, but the last two weeks have been a little slow, so he asks that working group members please contribute more and spend more time if they can. Mark Schafer provided a very nice summary of FDA regulatory limits in relation to our goal in terms of neuromodulation. They will review it, and if Mark agrees, they will probably share it among the entire group. It is a 3-page summary giving a review of ultrasound history. Further, Elsa Fouragnon set up a very nice spreadsheet about a review of the literature and they are all working on updating and extending its content. Hopefully they can share this information later on.
+
+Something still lingering in Seung-Schik's mind: they had some difficulty defining the nomenclature they are going to use, as some of the nomenclature has been a bit disparate. They would like input here. Linked to standardized reporting focus group. We haven't heard from them yet.
+
+**Lennart Verhagen:** proposed to make this the main topic of next week's meeting.
+
+**Planning Working Group (Brad Treeby):** they continue to be reasonably productive; meeting biweekly; starting phase 1 of modelling intercomparison. If you want to be involved, get in touch if you're not already a member of the working group. If anyone is working on Console, Access or some other package and feels like they would like to champion the effort for comparison then that would be great. Talking about how to map acoustic properties from CT, MR imaging of the skull, and how we might come up with a staged approach of derating.
+
+**Practice Working Group (Til Ole Bergmann):** got a few new members including Osada, Fomenko, and Kop. Meeting biweekly; second and fourth Thursday of the month. They've started to fill the skeleton of the guide with bullet points. Trying to link more strongly with the open group, now that we have more shared members. Part of the document that we would like to refer to in our guide would be those also disseminated by other groups. Inviting more members, who feel like they would like to share how exactly they went/go about the practicalities of doing ultrasound in humans.
+
+**Equipment Working Group (Elly Martin):** last meeting discussing first aim for recommendations and guidance for a simple consistency check that people can perform on their equipment. Might be possible if they have a NeuroFUS system. Aim is to draft guidelines or recommendations for how people might do that and think about other possibilities if people don't have the advanced equipment on hand. They will send something around when they have something concrete.
+
+**Clinical Working Group (Chris Butler):** had a meeting just before Christmas. People have been redeployed because of Covid related activities, but they have a doodle poll out to meet next week or the week after. Looking for more people who are interested in thinking about clinical applications of focused ultrasound into this group if possible. Contact any of the members for this, including Fidel, Martin, Sasha, Hartwig, Jamie, and Chris himself.
+
+**Open Working Group (Benjamin Kop):** set up Slack and the GitHub repository.  
+
+**Standardized Reporting Working Group (Lennart Verhagen):** together there is a lot of knowledge on reporting and nomenclature and a high benefit of standardizing this. One way to get this going is to set up a suggestion on reporting. A few bits will be easy to agree on in terms of reporting and nomenclature. Others might just have to be suggestions. Set up a strawman that people can comment on. They are meeting (in part) weekly for this effort.
+
+**Lennart Verhagen:** setting the topics for upcoming meetings. Next month we'll be talking about standardized reporting. We would like to discuss one of the working groups in a bit more detail.
+
+**Mechanisms of moving from a draft to the repository:**
+
+Lennart is interested to hear other people's insights. What we intend the working groups to be is a group of experts that can move forward at a fast pace to get to an expert consensus. The working groups are not a learning environment for non-experts. An example: Brad is leading the planning working group, Lennart is not a leader in planning and guidance so his role is more like an observer. It can be beneficial for Lennart to learn from Brad's expertise, but he doesn't want to hold Brad's working group back or put on additional workload if they'd have to educate him.
+
+The moment we start locking down the Slack channels, things will be clearer, but we will also be less flexible and we will lose some transparency within the group. Keen to hear from others on how to best formulate this.
+
+There is also a real need for both the Open and Practice group to start collaborating and get some knowledge to the front end. Practice group is really about best practice and Open group is for not locking up information in individual working groups indefinitely, but rather assess what can come to the front end.
+
+**Brad Treeby:** initial thought was that it would be better for all channels to be open. Provided working groups feed back to the main group often enough, then maybe it's better for the slack channels to be an extension of individual working group meetings themselves so that it can stay focused. As long as we get regular feedback to the main group it's fine.
+
+**Charles Caskey:** At least on the slack that I used, if you start a channel locked you cannot unlock it.
+
+**Elsa Fouragnon:** In general, do we want to make clear what each group thinks about publishing, if ever?
+
+**Lennart Verhagen:** definitely an ambition to have publication(s) coming from this effort. We do not yet have a clear policy on how we are going to approach any potential publications. Lennart needs some more time to think about this; people are writing grants and please feel free to mention working groups.
+
+**Brad Treeby:** on behalf of everyone thank you Lennart for bringing us together and doing an awesome job organizing.
+
+**Elsa Fouragnon and Seung-Schik Yoo:** maybe we need to push forward nomenclature, because it can make us stuck. It doesn't really matter because we can go ahead as long as people in the group understand what they mean, but it would be good to prioritize this.  
+
+**Lennart Verhagen:** we all agree. You guys are working on this now, I would ask you to comment on this in the slack channel. We're going to set up a strawman, which is a set of things that are a proposal. Starting with the things that are slightly clearer. Delineate which terms are or aren't clear.
+
+**Brad Treeby:** got invited to google group, what's that for? That means that Lennart can email everyone in one go and it doesn't expose everyone's email. The google groups are for mailing lists.
+
+**END OF MEETING**
