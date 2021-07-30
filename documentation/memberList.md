@@ -83,6 +83,7 @@ nav_order: 9
 | Norman        	| Spivak         	| observer                                       	| Research           	| University of California, Los Angeles                	| USA         	| -              	|
 | Olivier       	| Le Baron       	| observer                                       	| Industry           	| Imasonic                                             	| France      	| -              	|
 | Oscar         	| Bates          	| planning                                       	| Research           	| Imperial College London                              	| UK          	| Guasch         	|
+| Philip        	| Sabes          	| observer                                       	| Industry           	| Neuralink                                            	| US           	| -               |
 | Patrick       	| Marty          	| planning                                       	| Research           	| ETH Zurich                                           	| Switzerland 	| Boehm          	|
 | Pierre        	| Pouget         	| observer                                       	| Research           	| National Centre for Scientific Research              	| France      	| -              	|
 | Pierre        	| Gelat          	| planning                                       	| Research           	| University College London                            	| UK          	| Gelat          	|
