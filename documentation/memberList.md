@@ -76,7 +76,7 @@ nav_order: 9
 | Martin        	| Monti          	| clinical                                       	| Research           	| University of California Los Angeles                 	| USA         	| Monti          	|
 | Mathieu       	| Sprengers      	| observer                                       	| Research           	| Ghent University                                     	| Belgium     	| -              	|
 | Mikhail       	| Shapiro        	| observer                                       	| Research           	| Caltech University                                   	| USA         	| -              	|
-| Miriam        	| Klein-Flügge   	| contributor                                      	| Research           	| Oxford University                                    	| UK          	| -              	|
+| Miriam        	| Klein-Flügge   	| safety                                          	| Research           	| Oxford University                                    	| UK          	| -              	|
 | Nathan        	| McDannold      	| planning                                       	| Research           	| Brigham and Women's Hospital, Harvard Medical School 	| USA         	| McDannold      	|
 | Ningrui       	| Li             	| planning                                       	| Research           	| Stanford University                                  	| USA         	| Butts Pauly    	|
 | Noah          	| Philip         	| observer                                       	| Research           	| Brown University                                     	| USA         	| -              	|
