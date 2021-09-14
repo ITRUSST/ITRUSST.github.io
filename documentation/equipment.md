@@ -2,7 +2,7 @@
 layout: default
 title: equipment
 nav_order: 4
-# has_children: true
+has_children: true
 ---
 # equipment working group
 *Purpose: To establish recommendations and guidelines for equipment supporting focused ultrasonic neuromodulation, including primarily quality assurance and output checks, requirements for information and logging, as well as calibration and characterisation, (and a roadmap for future development and use).*
