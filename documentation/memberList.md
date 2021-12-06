@@ -61,6 +61,7 @@ nav_order: 9
 | Joel          	| Segre          	| observer                                       	| Industry           	| X Company                                            	| USA         	| -              	|
 | John          	| Snell          	| observer                                       	| Research           	| Focused Ultrasound Foundation                        	| USA         	| -              	|
 | John          	| Rothwell       	| observer                                       	| Research           	| University College London                            	| UK          	| -              	|
+| Jonathan        | Hacker        	| observer                                       	| Research           	| Rochester Institute of Technology                    	| USA          	| -              	|
 | José          	| Pineda-Pardo   	| observer                                       	| Research           	| hmCINAC                                              	| Spain       	| -              	|
 | Josh          	| Cain           	| observer                                       	| Research           	| University of California                             	| USA         	| -              	|
 | Keith         	| Murphy         	| practice                                       	| Research           	| Stanford University                                  	| USA         	| Murphy         	|
