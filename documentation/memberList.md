@@ -84,6 +84,7 @@ nav_order: 9
 | Olivier       	| Le Baron       	| observer                                       	| Industry           	| Imasonic                                             	| France      	| -              	|
 | Oscar         	| Bates          	| planning                                       	| Research           	| Imperial College London                              	| UK          	| Guasch         	|
 | Patrick       	| Marty          	| planning                                       	| Research           	| ETH Zurich                                           	| Switzerland 	| Boehm          	|
+| Peter       	  | Murphy          | observer                                       	| Research           	| Trinity College Dublin                                | Ireland 	    | -          	    |
 | Pierre        	| Pouget         	| observer                                       	| Research           	| National Centre for Scientific Research              	| France      	| -              	|
 | Pierre        	| Gelat          	| planning                                       	| Research           	| University College London                            	| UK          	| Gelat          	|
 | Rob           	| Mestrom        	| observer                                       	| Research           	| Eindhoven University of Technology                   	| NL          	| -              	|
