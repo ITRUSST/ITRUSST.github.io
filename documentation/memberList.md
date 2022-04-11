@@ -33,6 +33,7 @@ nav_order: 9
 | David         	| McMullen       	| observer                                       	| Research           	| National Institute of Mental Health                  	| USA         	| -              	|
 | Davide        	| Sabeddu        	| observer                                       	| Research           	| Donders Institute, Radboud University Nijmegen       	| NL          	| -              	|
 | Debby         	| Klooster       	| observer                                       	| Research           	| Ghent University                                     	| Belgium     	| -              	|
+| Dennis         	| Parker         	| observer                                       	| Research           	| The University of Utah                               	| USA         	| -              	|
 | Douglas       	| Christensen    	| planning                                       	| Research           	| The University of Utah                               	| USA         	| Christensen    	|
 | Elisa         	| Konofagou      	| observer                                       	| Research           	| Columbia University                                  	| USA         	| -              	|
 | Ellen         	| Bubrick        	| safety, clinical                               	| Research           	| Brigham and Women's Hospital                         	| USA         	| Bubrick        	|
@@ -92,6 +93,7 @@ nav_order: 9
 | Robert        	| Chen           	| safety                                         	| Research           	| University Health Network                            	| Canada      	| Chen           	|
 | Robin         	| Cleveland      	| reporting                                      	| Research           	| University of Oxford                                 	| UK          	| Cleveland      	|
 | Ryan          	| Jones          	| observer                                       	| Research           	| Sunnybrook Research Institute                        	| Canada      	| -              	|
+| Ryan          	| Ash           	| observer                                       	| Research           	| Sanford University                                   	| USA          | -              	|
 | Samuel        	| Pichardo       	| planning                                       	| Research           	| University of Calgary                                	| Canada      	| Pichardo       	|
 | Seiki         	| Konishi        	| observer                                       	| Research           	| Juntendo University                                  	| Japan       	| -              	|
 | Seung-Schik   	| Yoo            	| co-chair safety                                	| Research           	| Harvard University                                   	| USA         	| Yoo            	|
@@ -105,6 +107,7 @@ nav_order: 9
 | Thomas        	| Rheineck       	| observer                                       	| Industry           	| MR Instruments                                       	| USA         	| -              	|
 | Til Ole       	| Bergmann       	| chair practice                                 	| Research           	| Johannes Gutenberg University Medical Center Mainz   	| Germany     	| Bergmann       	|
 | Tulika        	| Nandi          	| co-chair open, practice                        	| Research           	| Johannes Gutenberg University Medical Center Mainz   	| Germany     	| Bergmann       	|
+| Viola         	| Rieke          	| observer                                      	| Research           	| University of Utah                                   	| USA         	| -  
 | Vlad          	| Miskovic       	| observer                                       	| Industry           	| X Company                                            	| USA         	| -              	|
 | Walter        	| Paulus         	| observer                                       	| Research           	| University of Göttingen                              	| Germany     	| -              	|
 | Wynn          	| Legon          	| observer                                       	| Research           	| University of Virginia                               	| USA         	| -              	|
