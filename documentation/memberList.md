@@ -21,8 +21,10 @@ nav_order: 9
 | Benjamin      	| Kop            	| co-chair open, practice                        	| Research           	| Donders Institute, Radboud University Nijmegen       	| NL          	| Verhagen       	|
 | Bradley       	| Treeby         	| co-chair planning                              	| Research           	| University College London                            	| UK          	| Treeby         	|
 | Bruno         	| Quesson        	| observer                                       	| Research           	| Centre national de la recherche scientifique         	| France      	| -              	|
+| Carl         	| Herickhoff        	| observer                                      | Research           	| The University of Memphis                     | USA      	| -              	|
 | Carlos        	| Cueto          	| planning                                       	| Research           	| Imperial College London                              	| UK          	| Guasch         	|
 | Charles       	| Caskey         	| observer practice, safety                      	| Research           	| Vanderbilt University, Institute of Imaging Science  	| USA         	| Caskey         	|
+| Charles-Francois  | Latchoumane   | observer                   	                    | Research           	| Neurorestore (University Hospital Lausanne/Swiss Federal Institute of Technology)   | Switzerland         	| -         |
 | Charlotte     	| Stagg          	| safety                                         	| Research           	| University of Oxford                                 	| UK          	| Stagg          	|
 | Christian     	| Aurup          	| observer                                       	| Research           	| Columbia University                                  	| USA         	| -              	|
 | Christian     	| Boehm          	| planning                                       	| Research           	| ETH Zurich                                           	| Switzerland 	| Boehm          	|
@@ -42,6 +44,7 @@ nav_order: 9
 | Elwin         	| van ‘t Wout    	| planning                                       	| Research           	| Pontificia Universidad Católica de Chile             	| Chile       	| van 't Wout    	|
 | Erik          	| Dumont         	| observer                                       	| Industry           	| Image Guided Therapy                                 	| France      	| -              	|
 | Esra          	| Neufeld        	| planning                                       	| Research           	| IT’IS Foundation                                     	| Switzerland 	| Neufeld        	|
+| Estelle          	| Raffin        	| observer                                       	| Research           	| Neurorestore (Swiss Federal Institute of Technology)      | Switzerland 	| -        	|
 | Ethan         	| Bendau         	| observer                                       	| Research           	| Columbia University                                  	| USA         	| -              	|
 | Evelien       	| Carrette       	| observer                                       	| Research           	| Ghent University Hospital                            	| Belgium     	| -              	|
 | Fidel         	| Vila-Rodriguez 	| clinical, safety                               	| Research           	| The University of British Colombia                   	| Canada      	| Vila-Rodriguez 	|
