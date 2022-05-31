@@ -44,7 +44,7 @@ nav_order: 9
 | Elwin         	| van ‘t Wout    	| planning                                       	| Research           	| Pontificia Universidad Católica de Chile             	| Chile       	| van 't Wout    	|
 | Erik          	| Dumont         	| observer                                       	| Industry           	| Image Guided Therapy                                 	| France      	| -              	|
 | Esra          	| Neufeld        	| planning                                       	| Research           	| IT’IS Foundation                                     	| Switzerland 	| Neufeld        	|
-| Estelle          	| Raffin        	| observer                                       	| Research           	| Neurorestore (Swiss Federal Institute of Technology)      | Switzerland 	| -        	|
+| Estelle          	| Raffin        	| observer                                       	| Research           	| Swiss Federal Institute of Technology      | Switzerland 	| -        	|
 | Ethan         	| Bendau         	| observer                                       	| Research           	| Columbia University                                  	| USA         	| -              	|
 | Evelien       	| Carrette       	| observer                                       	| Research           	| Ghent University Hospital                            	| Belgium     	| -              	|
 | Fidel         	| Vila-Rodriguez 	| clinical, safety                               	| Research           	| The University of British Colombia                   	| Canada      	| Vila-Rodriguez 	|
