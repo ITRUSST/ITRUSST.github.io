@@ -101,6 +101,7 @@ nav_order: 9
 | Samuel        	| Pichardo       	| planning                                       	| Research           	| University of Calgary                                	| Canada      	| Pichardo       	|
 | Seiki         	| Konishi        	| observer                                       	| Research           	| Juntendo University                                  	| Japan       	| -              	|
 | Seung-Schik   	| Yoo            	| co-chair safety                                	| Research           	| Harvard University                                   	| USA         	| Yoo            	|
+| Shrek   	    | Chalasani        	| observer                                	      | Research           	| Salk Institute for Biological Studies                                 	| USA         	| -            	|
 | Siti          	| Yaakub         	| planning                                       	| Research           	| University of Plymouth                               	| UK          	| Fouragnan      	|
 | Sjoerd        	| Meijer         	| observer                                       	| Research           	| Donders Institute, Radboud University Nijmegen       	| NL          	| -              	|
 | Steffen       	| Tretbar        	| observer                                       	| Research           	| Fraunhofer Institute for Biomedical Engineering      	| Germany     	| -              	|
