@@ -52,6 +52,7 @@ nav_order: 9
 | Gail          	| ter Haar       	| reporting                                      	| Research           	| The Institue of Cancer Research                      	| UK          	| ter Haar       	|
 | Ghazal        	| Darmani        	| safety                                         	| Research           	| University of Toronto                                	| Canada      	| Darmani        	|
 | Gianmarco     	| Pinton         	| planning                                       	| Research           	| University of North Carolina at Chapel Hill          	| USA         	| Pinton         	|
+| Harriet       	| Lea-Banks        	| observer                             	        | Research           	| Sunnybrook Research Institute Resonance        	| Canada     	| -        	|
 | Hartwig       	| Siebner        	| clinical, practice                             	| Research           	| Danish Research Centre for Magnetic Resonance        	| Denmark     	| Siebner        	|
 | Hazael        	| Montanaro      	| planning                                       	| Research           	| IT’IS Foundation                                     	| Switzerland 	| Neufeld        	|
 | Hermes        	| Kamimura       	| observer                                       	| Research           	| Columbia University                                  	| USA         	| -              	|
@@ -79,6 +80,7 @@ nav_order: 9
 | Mark          	| Schafer        	| safety, reporting, equipment                   	| Research, industry 	| Drexel University/Brainsonix                         	| USA         	| Schafer        	|
 | Markus        	| Ulsberg        	| observer                                       	| Research           	| Otto-von-Guericke University Magdeburg               	| Germany     	| -              	|
 | Martin        	| Monti          	| clinical                                       	| Research           	| University of California Los Angeles                 	| USA         	| Monti          	|
+| Mary       	    | Lee      	      | observer                                       	| Research           	| National Institutes of Health                                     	| USA     	| -              	|
 | Mathieu       	| Sprengers      	| observer                                       	| Research           	| Ghent University                                     	| Belgium     	| -              	|
 | Mikhail       	| Shapiro        	| observer                                       	| Research           	| Caltech University                                   	| USA         	| -              	|
 | Miriam        	| Klein-Flügge   	| safety                                          	| Research           	| Oxford University                                    	| UK          	| -              	|
