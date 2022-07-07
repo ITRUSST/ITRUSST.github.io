@@ -21,6 +21,7 @@ nav_order: 9
 | Benjamin      	| Kop            	| co-chair open, practice                        	| Research           	| Donders Institute, Radboud University Nijmegen       	| NL          	| Verhagen       	|
 | Bradley       	| Treeby         	| co-chair planning                              	| Research           	| University College London                            	| UK          	| Treeby         	|
 | Bruno         	| Quesson        	| observer                                       	| Research           	| Centre national de la recherche scientifique         	| France      	| -              	|
+| Camila         	| Agostino        	| observer                                      | Research           	| Otto von Guericke University Magdeburg           | Germany      	| -              	|
 | Carl         	| Herickhoff        	| observer                                      | Research           	| The University of Memphis                     | USA      	| -              	|
 | Carlos        	| Cueto          	| planning                                       	| Research           	| Imperial College London                              	| UK          	| Guasch         	|
 | Charles       	| Caskey         	| observer practice, safety                      	| Research           	| Vanderbilt University, Institute of Imaging Science  	| USA         	| Caskey         	|
@@ -120,6 +121,7 @@ nav_order: 9
 | Walter        	| Paulus         	| observer                                       	| Research           	| University of Göttingen                              	| Germany     	| -              	|
 | Wynn          	| Legon          	| observer                                       	| Research           	| University of Virginia                               	| USA         	| -              	|
 | Xinghao       	| Cheng          	| observer                                       	| Research           	| University of Oxford                                 	| UK          	| -              	|
+| Yannick         	| Hill          	| observer                                       	| Research           	| Otto von Guericke University Magdeburg                                	| Germany       	| -    
 | Yasuo         	| Terao          	| observer                                       	| Research           	| Kyorin University                                    	| Japan       	| -              	|
 | Yeruham       	| Shapira        	| observer                                       	| Industry           	| Insightec                                            	| Israel      	| -              	|
 | Ying-Zu       	| Huang          	| observer                                       	| Research           	| Chang Gung University                                	| Taiwan      	| -              	|
