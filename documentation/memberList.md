@@ -14,6 +14,7 @@ nav_order: 9
 | Alexander     	| Bystritsky     	| clinical                                       	| Industry           	| BrainSonix                                           	| USA         	| Bystritsky     	|
 | Andres        	| Lozano         	| observer                                       	| Research           	| University of Toronto                                	| Canada      	| -              	|
 | Andrew        	| Thomas         	| safety, practice, equipment, planning          	| Industry           	| Brainbox Ltd                                         	| UK          	| Thomas         	|
+| Anna        	| Kuppuswamy         	| observer          	| Research           	| University College London                                         	| UK          	| -         	|
 | Anton         	| Fomenko        	| safety, practice                               	| Research           	| University of Toronto                                	| Canada      	| Fomenko        	|
 | Antonio       	| Stanziola      	| planning                                       	| Research           	| University College London                            	| UK          	| Treeby         	|
 | Apoutou       	| N'Djin         	| practice                                       	| Research           	| Inserm, LabTAU Lyon                                  	| France      	| N'Djin         	|
