@@ -58,6 +58,8 @@ nav_order: 9
 | Hartwig       	| Siebner        	| clinical, practice                             	| Research           	| Danish Research Centre for Magnetic Resonance        	| Denmark     	| Siebner        	|
 | Hazael        	| Montanaro      	| planning                                       	| Research           	| IT’IS Foundation                                     	| Switzerland 	| Neufeld        	|
 | Hermes        	| Kamimura       	| observer                                       	| Research           	| Columbia University                                  	| USA         	| -              	|
+| Izzy        	| Kohler       	| observer                                       	    | Industry           	| Neurgear                               	
+| USA         	| -              	|
 | Jamie         	| Tyler          	| clinical                                       	| Research           	| Arizona State University, IST                        	| USA         	| Tyler          	|
 | Jean-Francois 	| Aubry          	| co-chair safety, planning, reporting           	| Research           	| National Centre for Scientific Research              	| France      	| Aubry          	|
 | Jeff          	| Keller         	| observer                                       	| Industry           	| Electronics & Innovation, Ltd.                       	| USA         	| -              	|
