@@ -72,6 +72,7 @@ nav_order: 9
 | Jonathan        | Hacker        	| observer                                       	| Research           	| Rochester Institute of Technology                    	| USA          	| -              	|
 | José          	| Pineda-Pardo   	| observer                                       	| Research           	| hmCINAC                                              	| Spain       	| -              	|
 | Josh          	| Cain           	| observer                                       	| Research           	| University of California                             	| USA         	| -              	|
+| Julian          | Kosciessa       | observer                                        | Research           	| Donders Insitute, Radboud University Nijmegen        	| NL          	| -              	|
 | Keith         	| Murphy         	| practice                                       	| Research           	| Stanford University                                  	| USA         	| Murphy         	|
 | Kim           	| Butts Pauly    	| co-chair planning, safety, reporting, practice 	| Research           	| Stanford University                                  	| USA         	| Butts Pauly    	|
 | Kullervo      	| Hynynen        	| planning                                       	| Research           	| Sunnybrook Research Institute                        	| Toronto     	| Hynynen        	|
