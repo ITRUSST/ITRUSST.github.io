@@ -72,6 +72,7 @@ nav_order: 9
 | Jonathan        | Hacker        	| observer                                       	| Research           	| Rochester Institute of Technology                    	| USA          	| -              	|
 | José          	| Pineda-Pardo   	| observer                                       	| Research           	| hmCINAC                                              	| Spain       	| -              	|
 | Josh          	| Cain           	| observer                                       	| Research           	| University of California                             	| USA         	| -              	|
+| Julian          	| Kosciessa     | observer                                       	| Research           	| Donders Institute, Radboud University                             	| NL         	| -              	|
 | Keith         	| Murphy         	| practice                                       	| Research           	| Stanford University                                  	| USA         	| Murphy         	|
 | Kim           	| Butts Pauly    	| co-chair planning, safety, reporting, practice 	| Research           	| Stanford University                                  	| USA         	| Butts Pauly    	|
 | Kullervo      	| Hynynen        	| planning                                       	| Research           	| Sunnybrook Research Institute                        	| Toronto     	| Hynynen        	|
@@ -101,6 +102,7 @@ nav_order: 9
 | Rob           	| Mestrom        	| observer                                       	| Research           	| Eindhoven University of Technology                   	| NL          	| -              	|
 | Robert        	| Chen           	| safety                                         	| Research           	| University Health Network                            	| Canada      	| Chen           	|
 | Robin         	| Cleveland      	| reporting                                      	| Research           	| University of Oxford                                 	| UK          	| Cleveland      	|
+| Roland         	| Beisteiner     	| observer                                      	| Research           	| Medical University of Vienna                            	| Austria          	| -      	|
 | Ryan          	| Jones          	| observer                                       	| Research           	| Sunnybrook Research Institute                        	| Canada      	| -              	|
 | Ryan          	| Ash           	| observer                                       	| Research           	| Sanford University                                   	| USA          | -              	|
 | Samuel        	| Pichardo       	| planning                                       	| Research           	| University of Calgary                                	| Canada      	| Pichardo       	|
