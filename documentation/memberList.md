@@ -35,6 +35,7 @@ nav_order: 9
 | Cristina      	| Pasquinelli    	| observer                                       	| Research           	| Danish Research Centre for Magnetic Resonance        	| Denmark     	| -              	|
 | David         	| Attali         	| safety                                         	| Research           	| ESPCI                                                	| France      	| Attali         	|
 | David         	| McMullen       	| observer                                       	| Research           	| National Institute of Mental Health                  	| USA         	| -              	|
+| David           | Sinden          | observer                                        | Research            | Fraunhofer Institute for Digital Medicine MEVIS       |  DE            | -               |
 | Davide        	| Sabeddu        	| observer                                       	| Research           	| Donders Institute, Radboud University Nijmegen       	| NL          	| -              	|
 | Debby         	| Klooster       	| observer                                       	| Research           	| Ghent University                                     	| Belgium     	| -              	|
 | Dennis         	| Parker         	| observer                                       	| Research           	| The University of Utah                               	| USA         	| -              	|
