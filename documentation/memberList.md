@@ -20,6 +20,7 @@ nav_order: 9
 | Apoutou       	| N'Djin         	| practice                                       	| Research           	| Inserm, LabTAU Lyon                                  	| France      	| N'Djin         	|
 | Axel          	| Thielscher     	| planning                                       	| Research           	| Tehnicial University of Denmark/DRCMR                	| Denmark     	| Thielscher     	|
 | Benjamin      	| Kop            	| co-chair open, practice                        	| Research           	| Donders Institute, Radboud University Nijmegen       	| NL          	| Verhagen       	|
+| Björn 	      	| Sigurðsson     	| observer                                      	| Research           	| Tehnicial University of Denmark/DRCMR	                 | Denmark       | -             	|										
 | Bradley       	| Treeby         	| co-chair planning                              	| Research           	| University College London                            	| UK          	| Treeby         	|
 | Bruno         	| Quesson        	| observer                                       	| Research           	| Centre national de la recherche scientifique         	| France      	| -              	|
 | Camila         	| Agostino        	| observer                                      | Research           	| Otto von Guericke University Magdeburg           | Germany      	| -              	|
