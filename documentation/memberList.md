@@ -105,7 +105,8 @@ nav_order: 9
 | Robin         	| Cleveland      	| reporting                                      	| Research           	| University of Oxford                                 	| UK          	| Cleveland      	|
 | Roland         	| Beisteiner     	| observer                                      	| Research           	| Medical University of Vienna                            	| Austria          	| -      	|
 | Ryan          	| Jones          	| observer                                       	| Research           	| Sunnybrook Research Institute                        	| Canada      	| -              	|
-| Ryan          	| Ash           	| observer                                       	| Research           	| Sanford University                                   	| USA          | -              	|
+| Ryan          	| Ash           	| observer                                       	| Research           	| Stanford University                                   	| USA          | -              	|
+| Ru          	  | Xiu           	| observer                                       	| Research           	|  University College London                           	 | UK           | -              	|
 | Samuel        	| Pichardo       	| planning                                       	| Research           	| University of Calgary                                	| Canada      	| Pichardo       	|
 | Seiki         	| Konishi        	| observer                                       	| Research           	| Juntendo University                                  	| Japan       	| -              	|
 | Seung-Schik   	| Yoo            	| co-chair safety                                	| Research           	| Harvard University                                   	| USA         	| Yoo            	|
