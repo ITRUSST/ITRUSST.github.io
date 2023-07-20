@@ -89,6 +89,7 @@ nav_order: 9
 | Mary       	    | Lee      	      | observer                                       	| Research           	| National Institutes of Health                                     	| USA     	| -              	|
 | Mathieu       	| Sprengers      	| observer                                       	| Research           	| Ghent University                                     	| Belgium     	| -              	|
 | Mikhail       	| Shapiro        	| observer                                       	| Research           	| Caltech University                                   	| USA         	| -              	|
+| Mihyun       	| Choi        	| observer                                       	| Research           	| Stanford University                                   	| USA         	| -              	|
 | Miriam        	| Klein-Flügge   	| safety                                          	| Research           	| Oxford University                                    	| UK          	| -              	|
 | Nathan        	| McDannold      	| planning                                       	| Research           	| Brigham and Women's Hospital, Harvard Medical School 	| USA         	| McDannold      	|
 | Ningrui       	| Li             	| planning                                       	| Research           	| Stanford University                                  	| USA         	| Butts Pauly    	|
