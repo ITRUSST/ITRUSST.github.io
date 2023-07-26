@@ -7,6 +7,14 @@ title: home
 nav_order: 1
 permalink: /
 ---
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to https://itrusst.com/</title>
+<meta http-equiv="refresh" content="0; URL=https://itrusst.com/">
+<link rel="canonical" href="https://itrusst.com/">
+
+
 ![](./media/Background3.png)
 ![](./media/ITRUSSTLogo7.png)
 # Welcome to ITRUSST
@@ -27,11 +35,7 @@ permalink: /
 </ul>
 
 
-<!DOCTYPE html>
-<meta charset="utf-8">
-<title>Redirecting to https://itrusst.com/</title>
-<meta http-equiv="refresh" content="0; URL=https://itrusst.com/">
-<link rel="canonical" href="https://itrusst.com/">
+
 
 <!--
 [I'm an inline-style link](https://www.google.com)
