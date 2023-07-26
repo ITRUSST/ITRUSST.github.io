@@ -27,6 +27,11 @@ permalink: /
 </ul>
 
 
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to https://itrusst.com/</title>
+<meta http-equiv="refresh" content="0; URL=https://itrusst.com/">
+<link rel="canonical" href="https://itrusst.com/">
 
 <!--
 [I'm an inline-style link](https://www.google.com)
